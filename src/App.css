@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #393b3f;
+}
+
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.h-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.cart-button:hover{
+  cursor: pointer;
+  background-color: none;
+  border: none;
+  
+}
+.cart-items-container {
+  max-height: 70vh;
+  overflow-y: auto;
+  padding-right: 10px;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+.cart-items-container:hover {
+  scrollbar-color: #ccc transparent;
+}
+.cart-items-container::-webkit-scrollbar {
+  width: 6px;
+  background: transparent;
+}
+.cart-items-container:hover::-webkit-scrollbar {
+  background: #eee;
+}
+
+.cart-items-container::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 6px;
+}
+.cart-items-container:hover::-webkit-scrollbar-thumb {
+  background: #aaa;
+}
+
+.logo{
+  cursor: pointer;
+}

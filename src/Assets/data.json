@@ -1,0 +1,2064 @@
+[
+  {
+    "categoryID": "001",
+    "category": "Smart Phones",
+	"category_img":"https://www.designinfo.in/wp-content/uploads/2024/09/Apple-iPhone-16-Pro-128GB-Black-Titanium-8-485x485-optimized.webp",
+    "products": [
+      {
+        "id": "001001",
+        "categoryID": "001",
+        "name": "Samsung Galaxy S23 Ultra 5G",
+        "description": "Samsung's flagship phone with Snapdragon 8 Gen 2, 200MP camera, and 5000mAh battery.",
+        "brand": "Samsung",
+        "price": 99517,
+        "discount": 10,
+        "sellingPrice": 89557,
+        "image": "https://m.media-amazon.com/images/I/71goZuIha-L.jpg",
+        "specification": {
+          "color": "Phantom Black",
+          "ram": "12GB",
+          "storage": "512GB",
+          "screenSize": "6.8 inch",
+          "battery": "5000mAh",
+          "processor": "Snapdragon 8 Gen 2",
+          "frontCamera": "12MP",
+          "backCamera": "200MP + 10MP + 12MP + 10MP"
+        }
+      },
+      {
+        "id": "001002",
+        "categoryID": "001",
+        "name": "Apple iPhone 15",
+        "description": "Apple iPhone 15 with A16 Bionic chip, 48MP camera, and 3279mAh battery.",
+        "brand": "Apple",
+        "price": 66317,
+        "discount": 5,
+        "sellingPrice": 62997,
+        "image": "https://m.media-amazon.com/images/I/71v2jVh6nIL._AC_UF1000,1000_QL80_.jpg",
+        "specification": {
+          "color": "Midnight Blue",
+          "ram": "6GB",
+          "storage": "256GB",
+          "screenSize": "6.1 inch",
+          "battery": "3279mAh",
+          "processor": "A16 Bionic",
+          "frontCamera": "12MP",
+          "backCamera": "48MP + 12MP"
+        }
+      },
+      {
+        "id": "001003",
+        "categoryID": "001",
+        "name": "Apple iPhone 16 Pro Max",
+        "description": "Upcoming iPhone with A18 Bionic chip, 50MP camera, and 4000mAh battery.",
+        "brand": "Apple",
+        "price": 107817,
+        "discount": 7,
+        "sellingPrice": 100347,
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/g/x/h/-original-imagtc3k6zztrhnb.jpeg?q=20&crop=false",
+        "specification": {
+          "color": "Graphite",
+          "ram": "8GB",
+          "storage": "512GB",
+          "screenSize": "6.7 inch",
+          "battery": "4000mAh",
+          "processor": "A18 Bionic",
+          "frontCamera": "12MP",
+          "backCamera": "50MP + 12MP + 10MP"
+        }
+      },
+      {
+        "id": "001004",
+        "categoryID": "001",
+        "name": "Realme 8",
+        "description": "Realme 8 with MediaTek Helio G95 processor, 64MP camera, and 5000mAh battery.",
+        "brand": "Realme",
+        "price": 20667,
+        "discount": 15,
+        "sellingPrice": 17596,
+        "image": "https://www.neolight.in/wp-content/uploads/2022/02/realme8-cyber-silver2.jpeg",
+        "specification": {
+          "color": "Cyber Silver",
+          "ram": "6GB",
+          "storage": "128GB",
+          "screenSize": "6.4 inch",
+          "battery": "5000mAh",
+          "processor": "MediaTek Helio G95",
+          "frontCamera": "16MP",
+          "backCamera": "64MP + 8MP + 2MP + 2MP"
+        }
+      },
+      {
+        "id": "001005",
+        "categoryID": "001",
+        "name": "Vivo V40 5G",
+        "description": "Vivo V40 5G with Snapdragon 7 Gen 3 processor, 50MP dual camera, and 4800mAh battery.",
+        "brand": "Vivo",
+        "price": 49717,
+        "discount": 10,
+        "sellingPrice": 44737,
+        "image": "https://img-prd-pim.poorvika.com/product/vivo-v40-5g-Purple-256gb-8gb-ram-front-back-view-01.png",
+        "specification": {
+          "color": "Lavender Purple",
+          "ram": "8GB",
+          "storage": "256GB",
+          "screenSize": "6.5 inch",
+          "battery": "4800mAh",
+          "processor": "Snapdragon 7 Gen 3",
+          "frontCamera": "32MP",
+          "backCamera": "50MP + 12MP"
+        }
+      },
+      {
+        "id": "001006",
+        "categoryID": "001",
+        "name": "Redmi Note 14 Pro+ 5G",
+        "description": "Redmi Note 14 Pro+ 5G with Dimensity 9200+, 200MP OIS camera, and 5000mAh battery.",
+        "brand": "Xiaomi",
+        "price": 45567,
+        "discount": 12,
+        "sellingPrice": 40089,
+        "image": "https://i05.appmifile.com/328_item_uk/06/01/2025/fdc291f70624fc1a49847678244e8234!400x400!85.png",
+        "specification": {
+          "color": "Astral Black",
+          "ram": "12GB",
+          "storage": "256GB",
+          "screenSize": "6.67 inch",
+          "battery": "5000mAh",
+          "processor": "Dimensity 9200+",
+          "frontCamera": "16MP",
+          "backCamera": "200MP + 8MP + 2MP"
+        }
+      },
+      {
+        "id": "001007",
+        "categoryID": "001",
+        "name": "Pixel 9",
+        "description": "Google Pixel 9 with Tensor G4 chip, 50MP dual-camera, and 5000mAh battery.",
+        "brand": "Google",
+        "price": 82917,
+        "discount": 8,
+        "sellingPrice": 76277,
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_P9_2024Q2_Peony_LT_T-Shot_r.width-500.format-webp_iwsszqn.webp",
+        "specification": {
+          "color": "Obsidian Black",
+          "ram": "8GB",
+          "storage": "128GB",
+          "screenSize": "6.3 inch",
+          "battery": "5000mAh",
+          "processor": "Tensor G4",
+          "frontCamera": "12MP",
+          "backCamera": "50MP + 48MP"
+        }
+      },
+      {
+        "id": "001008",
+        "categoryID": "001",
+        "name": "OnePlus Nord CE4 Lite 5G",
+        "description": "OnePlus Nord CE4 Lite 5G with Snapdragon 7s Gen 2, 50MP OIS camera, and 5500mAh battery.",
+        "brand": "OnePlus",
+        "price": 28967,
+        "discount": 10,
+        "sellingPrice": 26062,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1719316070/Croma%20Assets/Communication/Mobiles/Images/307504_0_yfhhdc.png?tr=w-1000",
+        "specification": {
+          "color": "Pastel Lime",
+          "ram": "8GB",
+          "storage": "256GB",
+          "screenSize": "6.72 inch",
+          "battery": "5500mAh",
+          "processor": "Snapdragon 7s Gen 2",
+          "frontCamera": "16MP",
+          "backCamera": "50MP + 2MP"
+        }
+      }
+    ]
+  },
+  {
+    "categoryID": "002",
+    "category": "Laptops",
+	"category_img":"https://m.media-amazon.com/images/I/51QHf1koyPL.jpg",
+   "products": [
+    {
+      "id": "002001",
+      "categoryID": "002",
+      "name": "Realme Slim Book",
+      "description": "Realme Slim Book with Intel Core i5, 14-inch 2K display, and 11-hour battery life.",
+      "brand": "Realme",
+      "price": 54990,
+      "qty": 10,
+      "discount": 10,
+      "sellingPrice": 49491,
+      "image": "https://i0.wp.com/manilashaker.com/wp-content/uploads/2021/09/realme-Book_1.jpg?resize=1000%2C563&ssl=1",
+      "specification": {
+        "color": "Silver",
+        "ram": "8GB",
+        "storage": "512GB SSD",
+        "screenSize": "14 inch 2K",
+        "battery": "11 hours",
+        "processor": "Intel Core i5 11th Gen",
+        "graphics": "Intel Iris Xe",
+        "ports": "USB-C, USB-A, 3.5mm Audio Jack",
+        "weight": "1.38kg"
+      }
+    },
+    {
+      "id": "002002",
+      "categoryID": "002",
+      "name": "HP 255 G10 (2024) AMD Ryzen 3",
+      "description": "HP 255 G10 with AMD Ryzen 3, 15.6-inch FHD display, and long battery life.",
+      "brand": "HP",
+      "price": 42990,
+      "qty": 15,
+      "discount": 8,
+      "sellingPrice": 39550,
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/computer/z/7/7/250-g10-laptop-hp-original-imah743dchvr8cey.jpeg?q=90&crop=false",
+      "specification": {
+        "color": "Silver",
+        "ram": "8GB",
+        "storage": "512GB SSD",
+        "screenSize": "15.6 inch FHD",
+        "battery": "9 hours",
+        "processor": "AMD Ryzen 3 5300U",
+        "graphics": "AMD Radeon",
+        "ports": "USB 3.1, HDMI, Ethernet",
+        "weight": "1.75kg"
+      }
+    },
+    {
+      "id": "002003",
+      "categoryID": "002",
+      "name": "ASUS Vivobook 15, with Backlit Keyboard",
+      "description": "ASUS Vivobook 15 with Intel Core i7, 15.6-inch FHD display, and 16GB RAM.",
+      "brand": "ASUS",
+      "price": 68990,
+      "qty": 12,
+      "discount": 12,
+      "sellingPrice": 60711,
+      "image": "https://images-cdn.ubuy.co.in/635ef5d196d6ec1bb335c4c3-2020-asus-vivobook-15-15-6-inch-fhd.jpg",
+      "specification": {
+        "color": "Silver",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "screenSize": "15.6 inch FHD",
+        "battery": "8 hours",
+        "processor": "Intel Core i7 12th Gen",
+        "graphics": "Intel Iris Xe",
+        "ports": "USB-C, USB-A, HDMI, SD Card Slot",
+        "weight": "1.8kg"
+      }
+    },
+    {
+      "id": "002004",
+      "categoryID": "002",
+      "name": "SAMSUNG Galaxy Book4 Intel Core i5 13th",
+      "description": "Samsung Galaxy Book4 with Intel Core i5, 15.6-inch AMOLED display, and 13-hour battery life.",
+      "brand": "SAMSUNG",
+      "price": 72990,
+      "qty": 8,
+      "discount": 10,
+      "sellingPrice": 65691,
+      "image": "https://media.croma.com/image/upload/v1724855810/Croma%20Assets/Computers%20Peripherals/Laptop/Images/307435_3_sszro0.png",
+      "specification": {
+        "color": "Silver",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "screenSize": "15.6 inch AMOLED",
+        "battery": "13 hours",
+        "processor": "Intel Core i5 13th Gen",
+        "graphics": "Intel Iris Xe",
+        "ports": "USB-C, HDMI, Thunderbolt 4",
+        "weight": "1.39kg"
+      }
+    },
+    {
+      "id": "002005",
+      "categoryID": "002",
+      "name": "MacBook Air Apple M2",
+      "description": "Apple MacBook Air M2 with 13.6-inch Liquid Retina display and 18-hour battery life.",
+      "brand": "Apple",
+      "price": 114900,
+      "qty": 10,
+      "discount": 8,
+      "sellingPrice": 105708,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-macbook-air-m2-spacegray-202208?wid=2000&hei=1536&fmt=jpeg&qlt=95&.v=1659114425525",
+      "specification": {
+        "color": "Silver",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "screenSize": "13.6 inch Liquid Retina",
+        "battery": "18 hours",
+        "processor": "Apple M2",
+        "graphics": "Apple GPU 10-core",
+        "ports": "MagSafe 3, Thunderbolt 4, 3.5mm Jack",
+        "weight": "1.24kg"
+      }
+    },
+    {
+      "id": "002006",
+      "categoryID": "002",
+      "name": "DELL Inspiron 7440 2-in-1 Intel Core i5 13th Gen",
+      "description": "Dell Inspiron 7440 with Intel Core i5, 14-inch touchscreen, and 2-in-1 convertible design.",
+      "brand": "DELL",
+      "price": 78990,
+      "qty": 7,
+      "discount": 10,
+      "sellingPrice": 71091,
+      "image": "https://media.croma.com/image/upload/v1732722721/Croma%20Assets/Computers%20Peripherals/Laptop/Images/312216_4_exf8lh.png",
+      "specification": {
+        "color": "Silver",
+        "ram": "16GB",
+        "storage": "1TB SSD",
+        "screenSize": "14 inch Touchscreen",
+        "battery": "12 hours",
+        "processor": "Intel Core i5 13th Gen",
+        "graphics": "Intel Iris Xe",
+        "ports": "USB-C, HDMI, SDXC",
+        "weight": "1.5kg"
+      }
+    },
+    {
+      "id": "002007",
+      "categoryID": "002",
+      "name": "ASUS Chromebook Intel Celeron Dual Core N4500",
+      "description": "ASUS Chromebook with Intel Celeron N4500, 14-inch HD display, and ChromeOS.",
+      "brand": "ASUS",
+      "price": 23990,
+      "qty": 20,
+      "discount": 15,
+      "sellingPrice": 20391,
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/computer/1/8/i/cx1400cka-ek0335-chromebook-asus-original-imah2f9cbsqcnthy.jpeg?q=90&crop=false",
+      "specification": {
+        "color": "Silver",
+        "ram": "4GB",
+        "storage": "64GB eMMC",
+        "screenSize": "14 inch HD",
+        "battery": "10 hours",
+        "processor": "Intel Celeron N4500",
+        "graphics": "Intel UHD Graphics",
+        "ports": "USB-C, USB-A, MicroSD",
+        "weight": "1.2kg"
+      }
+    },
+    {
+      "id": "002008",
+      "categoryID": "002",
+      "name": "Acer Swift Go 14 TouchScreen AI PC Intel Core",
+      "description": "Acer Swift Go 14 with Intel Core Ultra 7, OLED display, and AI-powered performance.",
+      "brand": "Acer",
+      "price": 99990,
+      "qty": 5,
+      "discount": 12,
+      "sellingPrice": 87991,
+      "image": "https://cdn.uc.assets.prezly.com/b81d27f7-536c-4ba5-8485-a501014d7380/SP-01.png",
+      "specification": {
+        "color": "Silver",
+        "ram": "16GB",
+        "storage": "1TB SSD",
+        "screenSize": "14 inch OLED",
+        "battery": "15 hours",
+        "processor": "Intel Core Ultra 7",
+        "graphics": "Intel Arc",
+        "ports": "USB 4.0, HDMI, SDXC",
+        "weight": "1.3kg"
+      }
+    }
+  ]
+  },
+  {
+    "categoryID": "003",
+    "category": "Smart TVs",
+	"category_img":"https://www.enationalelectronics.com/storage/bpl-32-hd-television-492166140-i-2-1200wx1200h.jpg",
+  
+    "products": [
+      {
+        "id": "003001",
+        "categoryID": "003",
+        "name": "Samsung Crystal 4K UHD Smart TV 55-inch",
+        "description": "Samsung Crystal 4K UHD Smart TV with HDR10+ and powerful 20W speakers.",
+        "brand": "Samsung",
+        "price": 52990,
+        "qty": 15,
+        "discount": 12,
+        "sellingPrice": 46631,
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/ua55cu8000klxl/gallery/in-crystal-uhd-cu8000-ua55cu8000klxl-535858489?$684_547_PNG$",
+        "specification": {
+          "screenSize": "55 inch",
+          "resolution": "4K UHD (3840x2160)",
+          "displayTechnology": "Crystal UHD",
+          "refreshRate": "60Hz",
+          "smartFeatures": "Tizen OS, Alexa & Google Assistant Support",
+          "audio": "20W Speakers with Dolby Digital Plus",
+          "connectivity": "3 HDMI, 1 USB, Bluetooth, Wi-Fi",
+          "weight": "14.2kg"
+        }
+      },
+      {
+        "id": "003002",
+        "categoryID": "003",
+        "name": "Sony Bravia 65-inch 4K Ultra HD Smart TV",
+        "description": "Sony Bravia 65-inch 4K Ultra HD Smart TV with Dolby Vision & HDR10.",
+        "brand": "Sony",
+        "price": 94990,
+        "qty": 10,
+        "discount": 10,
+        "sellingPrice": 85491,
+        "image": "https://oxygendigitalshop.com/media/cache/2500x0/catalog/product/1/_/1_811_1_1_1_1_1687942832.webp",
+        "specification": {
+          "screenSize": "65 inch",
+          "resolution": "4K Ultra HD (3840x2160)",
+          "displayTechnology": "TRILUMINOS Pro",
+          "refreshRate": "120Hz",
+          "smartFeatures": "Google TV, Alexa & Google Assistant",
+          "audio": "30W Dolby Atmos Speakers",
+          "connectivity": "4 HDMI, 2 USB, Wi-Fi, Bluetooth",
+          "weight": "20.1kg"
+        }
+      },
+      {
+        "id": "003003",
+        "categoryID": "003",
+        "name": "LG OLED Evo 55-inch 4K Smart TV",
+        "description": "LG OLED Evo Smart TV with Dolby Vision, Dolby Atmos & 120Hz refresh rate.",
+        "brand": "LG",
+        "price": 129990,
+        "qty": 5,
+        "discount": 15,
+        "sellingPrice": 110491,
+        "image": "https://www.lg.com/content/dam/channel/wcms/in/images/tvs/oled65b1ptz_atr_eail_in_c/gallery/OLED65B1PTZ-DZ-05.jpg",
+        "specification": {
+          "screenSize": "55 inch",
+          "resolution": "4K UHD (3840x2160)",
+          "displayTechnology": "OLED Evo",
+          "refreshRate": "120Hz",
+          "smartFeatures": "webOS, AI ThinQ, Alexa & Google Assistant",
+          "audio": "40W Dolby Atmos Sound",
+          "connectivity": "4 HDMI, 3 USB, Wi-Fi 6, Bluetooth 5.0",
+          "weight": "17.5kg"
+        }
+      },
+      {
+        "id": "003004",
+        "categoryID": "003",
+        "name": "Xiaomi 50-inch 4K Smart TV",
+        "description": "Xiaomi 50-inch 4K Smart TV with PatchWall UI & Dolby Vision support.",
+        "brand": "Xiaomi",
+        "price": 42990,
+        "qty": 20,
+        "discount": 10,
+        "sellingPrice": 38691,
+        "image": "https://media.croma.com/image/upload/v1689335965/Croma%20Assets/Entertainment/Television/Images/272246_0_tcrcwl.png",
+        "specification": {
+          "screenSize": "50 inch",
+          "resolution": "4K Ultra HD (3840x2160)",
+          "displayTechnology": "LED HDR10+",
+          "refreshRate": "60Hz",
+          "smartFeatures": "Android TV 11, PatchWall, Chromecast Built-in",
+          "audio": "24W Dolby Audio",
+          "connectivity": "3 HDMI, 2 USB, Wi-Fi, Bluetooth",
+          "weight": "11.5kg"
+        }
+      },
+      {
+        "id": "003005",
+        "categoryID": "003",
+        "name": "OnePlus Q1 Series 55-inch QLED TV",
+        "description": "OnePlus Q1 Series 55-inch QLED Smart TV with 50W speakers & Dolby Vision.",
+        "brand": "OnePlus",
+        "price": 69999,
+        "qty": 8,
+        "discount": 12,
+        "sellingPrice": 61599,
+        "image": "https://5.imimg.com/data5/ANDROID/Default/2024/10/456864859/SR/NA/KY/231258206/prod-20241008-1150154839457173969084327-jpg-500x500.jpg",
+        "specification": {
+          "screenSize": "55 inch",
+          "resolution": "4K UHD (3840x2160)",
+          "displayTechnology": "QLED",
+          "refreshRate": "120Hz",
+          "smartFeatures": "Android TV, OxygenPlay, Alexa & Google Assistant",
+          "audio": "50W Dolby Atmos Soundbar",
+          "connectivity": "4 HDMI, 3 USB, Wi-Fi 6, Bluetooth 5.0",
+          "weight": "18kg"
+        }
+      },
+      {
+        "id": "003006",
+        "categoryID": "003",
+        "name": "Vu 43-inch 4K Smart TV",
+        "description": "Vu 43-inch 4K Ultra HD Smart TV with Dolby Audio and Android TV 10.",
+        "brand": "Vu",
+        "price": 32990,
+        "qty": 18,
+        "discount": 14,
+        "sellingPrice": 28331,
+        "image": "https://m.media-amazon.com/images/I/91fdLsP5CTL.jpg",
+        "specification": {
+          "screenSize": "43 inch",
+          "resolution": "4K Ultra HD (3840x2160)",
+          "displayTechnology": "LED HDR10+",
+          "refreshRate": "60Hz",
+          "smartFeatures": "Android TV 10, Google Assistant, Chromecast Built-in",
+          "audio": "30W Dolby Audio",
+          "connectivity": "3 HDMI, 2 USB, Wi-Fi, Bluetooth",
+          "weight": "9.8kg"
+        }
+      }
+    ]
+  
+  
+  },
+  {
+    "categoryID": "004",
+    "category": "Smart Watches",
+	"category_img":"https://mobilezon.in/wp-content/uploads/2023/12/S12-Ultra-Smart-Watch-4G-Sim-Card-With-Rotating-Camera.jpg",
+  
+    "products": [
+      {
+        "id": "004001",
+        "categoryID": "004",
+        "name": "Apple Watch Series 9 (GPS, 45mm)",
+        "description": "Apple Watch Series 9 with Always-On Retina display, fitness tracking & Siri support.",
+        "brand": "Apple",
+        "price": 44900,
+        "qty": 12,
+        "discount": 10,
+        "sellingPrice": 40410,
+        "image": "https://cdn0.it4profit.com/s3size/rt:fill/w:900/h:900/g:no/el:1/f:webp/plain/s3://cms/product/c3/75/c375af8f573f5f22ec2b0111f674ad98/230914140010023680.webp",
+        "specification": {
+          "display": "1.9-inch Always-On Retina",
+          "batteryLife": "18 hours",
+          "waterResistance": "50m",
+          "healthFeatures": "ECG, SpO2, Sleep Tracking",
+          "connectivity": "GPS, Wi-Fi, Bluetooth 5.3",
+          "compatibility": "iOS only",
+          "weight": "39g"
+        }
+      },
+      {
+        "id": "004002",
+        "categoryID": "004",
+        "name": "Samsung Galaxy Watch6 Classic (46mm, Bluetooth)",
+        "description": "Samsung Galaxy Watch6 Classic with rotating bezel, AMOLED display & ECG tracking.",
+        "brand": "Samsung",
+        "price": 36999,
+        "qty": 10,
+        "discount": 12,
+        "sellingPrice": 32559,
+        "image": "https://images.samsung.com/in/galaxy-watch6-classic/feature/galaxy-watch5-pro-gray-titanium.jpg",
+        "specification": {
+          "display": "1.5-inch Super AMOLED",
+          "batteryLife": "40 hours",
+          "waterResistance": "5ATM + IP68",
+          "healthFeatures": "ECG, BP Monitoring, Sleep Tracking",
+          "connectivity": "Bluetooth, Wi-Fi, GPS, NFC",
+          "compatibility": "Android only",
+          "weight": "52g"
+        }
+      },
+      {
+        "id": "004003",
+        "categoryID": "004",
+        "name": "Garmin Venu 2 Plus",
+        "description": "Garmin Venu 2 Plus with AMOLED display, GPS & advanced health tracking.",
+        "brand": "Garmin",
+        "price": 51990,
+        "qty": 8,
+        "discount": 15,
+        "sellingPrice": 44191,
+        "image": "https://m.media-amazon.com/images/I/61+VFhFkAJL.jpg",
+        "specification": {
+          "display": "1.3-inch AMOLED",
+          "batteryLife": "9 days",
+          "waterResistance": "5ATM",
+          "healthFeatures": "VO2 Max, ECG, Stress Monitoring",
+          "connectivity": "GPS, Bluetooth, Wi-Fi",
+          "compatibility": "iOS & Android",
+          "weight": "51g"
+        }
+      },
+      {
+        "id": "004004",
+        "categoryID": "004",
+        "name": "OnePlus Nord Watch",
+        "description": "OnePlus Nord Watch with AMOLED display, SpO2 monitoring & fitness tracking.",
+        "brand": "OnePlus",
+        "price": 5999,
+        "qty": 20,
+        "discount": 10,
+        "sellingPrice": 5399,
+        "image": "https://www.truesolutiononline.com/wp-content/uploads/2022/08/DIZO-WATCH-2.jpg",
+        "specification": {
+          "display": "1.78-inch AMOLED",
+          "batteryLife": "10 days",
+          "waterResistance": "IP68",
+          "healthFeatures": "SpO2, Heart Rate, Sleep Tracking",
+          "connectivity": "Bluetooth 5.2",
+          "compatibility": "iOS & Android",
+          "weight": "52g"
+        }
+      },
+      {
+        "id": "004005",
+        "categoryID": "004",
+        "name": "Amazfit GTR 4",
+        "description": "Amazfit GTR 4 with built-in GPS, Alexa support & long battery life.",
+        "brand": "Amazfit",
+        "price": 16999,
+        "qty": 15,
+        "discount": 10,
+        "sellingPrice": 15299,
+        "image": "https://in.amazfit.com/cdn/shop/files/Whitebackground-1_600x600.jpg?v=1724324140",
+        "specification": {
+          "display": "1.43-inch AMOLED",
+          "batteryLife": "14 days",
+          "waterResistance": "5ATM",
+          "healthFeatures": "SpO2, Heart Rate, Stress Monitoring",
+          "connectivity": "Bluetooth, GPS, Alexa Built-in",
+          "compatibility": "iOS & Android",
+          "weight": "34g"
+        }
+      },
+      {
+        "id": "004006",
+        "categoryID": "004",
+        "name": "Boat Xtend Plus",
+        "description": "Boat Xtend Plus smartwatch with 100+ sports modes & Alexa built-in.",
+        "brand": "Boat",
+        "price": 3499,
+        "qty": 25,
+        "discount": 15,
+        "sellingPrice": 2974,
+        "image": "https://m.media-amazon.com/images/I/61gRRiSF2iL.jpg",
+        "specification": {
+          "display": "1.69-inch LCD",
+          "batteryLife": "7 days",
+          "waterResistance": "IP67",
+          "healthFeatures": "SpO2, Heart Rate, Stress Tracking",
+          "connectivity": "Bluetooth 5.0",
+          "compatibility": "iOS & Android",
+          "weight": "40g"
+        }
+      },
+      {
+        "id": "004007",
+        "categoryID": "004",
+        "name": "Noise ColorFit Ultra 3",
+        "description": "Noise ColorFit Ultra 3 with AMOLED display, Bluetooth calling & AI voice assistant.",
+        "brand": "Noise",
+        "price": 4999,
+        "qty": 30,
+        "discount": 12,
+        "sellingPrice": 4399,
+        "image": "https://www.gonoise.com/cdn/shop/files/3_8cf78bd7-134a-4b21-a755-aea5507a5c69.webp?v=1721366610",
+        "specification": {
+          "display": "1.78-inch AMOLED",
+          "batteryLife": "10 days",
+          "waterResistance": "IP68",
+          "healthFeatures": "SpO2, Heart Rate, Sleep Tracking",
+          "connectivity": "Bluetooth Calling, AI Voice Assistant",
+          "compatibility": "iOS & Android",
+          "weight": "45g"
+        }
+      },
+      {
+        "id": "004008",
+        "categoryID": "004",
+        "name": "Fire-Boltt Visionary",
+        "description": "Fire-Boltt Visionary with AMOLED display, Bluetooth calling & fitness tracking.",
+        "brand": "Fire-Boltt",
+        "price": 4499,
+        "qty": 35,
+        "discount": 10,
+        "sellingPrice": 4049,
+        "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/24364444/2023/8/29/bbe7eb45-04c9-452a-bc05-7d2584be15571693293448592-Fire-Boltt-Visionary-Ultra-Luxury-Design-with-178-AMOLED-Dis-1.jpg",
+        "specification": {
+          "display": "1.78-inch AMOLED",
+          "batteryLife": "7 days",
+          "waterResistance": "IP68",
+          "healthFeatures": "SpO2, Heart Rate, Step Tracking",
+          "connectivity": "Bluetooth Calling",
+          "compatibility": "iOS & Android",
+          "weight": "38g"
+        }
+      }
+    ]
+  
+  
+  },
+  {
+    "categoryID": "005",
+    "category": "Soundbars",
+	"category_img":"https://shop.zebronics.com/cdn/shop/files/Zeb-Jukebar-9900-pic1.jpg?v=1710999370&width=1200",
+  
+    "products": [
+      {
+        "id": "005001",
+        "categoryID": "005",
+        "name": "Sony HT-S40R 5.1ch Dolby Audio Soundbar",
+        "description": "Sony HT-S40R 5.1ch soundbar with Dolby Audio, 600W output & wireless rear speakers.",
+        "brand": "Sony",
+        "price": 34990,
+        "qty": 10,
+        "discount": 15,
+        "sellingPrice": 29741,
+        "image": "https://tvcentre.co.ke/wp-content/uploads/2023/12/Sony-S40R.webp",
+        "specification": {
+          "totalOutput": "600W",
+          "channels": "5.1",
+          "wirelessSubwoofer": "Yes",
+          "surroundSound": "Dolby Audio",
+          "connectivity": "Bluetooth, HDMI ARC, Optical, USB",
+          "control": "Remote, Sony Music Center App",
+          "weight": "12kg"
+        }
+      },
+      {
+        "id": "005002",
+        "categoryID": "005",
+        "name": "Samsung HW-Q990C 11.1.4ch Dolby Atmos Soundbar",
+        "description": "Samsung HW-Q990C soundbar with 11.1.4ch Dolby Atmos & Q-Symphony support.",
+        "brand": "Samsung",
+        "price": 99990,
+        "qty": 8,
+        "discount": 10,
+        "sellingPrice": 89991,
+        "image": "https://m.media-amazon.com/images/I/41JePFGt9CL.jpg",
+        "specification": {
+          "totalOutput": "656W",
+          "channels": "11.1.4",
+          "wirelessSubwoofer": "Yes",
+          "surroundSound": "Dolby Atmos, DTS:X",
+          "connectivity": "Wi-Fi, Bluetooth, HDMI eARC, Optical",
+          "control": "SmartThings App, Alexa, Remote",
+          "weight": "18kg"
+        }
+      },
+      {
+        "id": "005003",
+        "categoryID": "005",
+        "name": "JBL Bar 9.1 True Wireless Soundbar",
+        "description": "JBL Bar 9.1 with true wireless surround speakers, Dolby Atmos & 820W output.",
+        "brand": "JBL",
+        "price": 99999,
+        "qty": 7,
+        "discount": 12,
+        "sellingPrice": 87999,
+        "image": "https://jblstore.com.ph/cdn/shop/files/3_467c331a-18f7-4d91-91c2-cedc0dd449c2_300x.png?v=1738835930",
+        "specification": {
+          "totalOutput": "820W",
+          "channels": "9.1",
+          "wirelessSubwoofer": "Yes",
+          "surroundSound": "Dolby Atmos, DTS:X",
+          "connectivity": "Wi-Fi, Bluetooth, HDMI eARC, Optical",
+          "control": "Google Assistant, Alexa, Remote",
+          "weight": "16.5kg"
+        }
+      },
+      {
+        "id": "005004",
+        "categoryID": "005",
+        "name": "Bose Smart Soundbar 900",
+        "description": "Bose Smart Soundbar 900 with Dolby Atmos & Alexa built-in.",
+        "brand": "Bose",
+        "price": 109900,
+        "qty": 6,
+        "discount": 10,
+        "sellingPrice": 98910,
+        "image": "https://images-cdn.ubuy.co.in/647784b5542ef615b126deda-bose-smart-soundbar-900-with-bass-module.jpg",
+        "specification": {
+          "totalOutput": "300W",
+          "channels": "7.1",
+          "wirelessSubwoofer": "No",
+          "surroundSound": "Dolby Atmos",
+          "connectivity": "Wi-Fi, Bluetooth, HDMI eARC, Optical",
+          "control": "Google Assistant, Alexa, Bose Music App",
+          "weight": "5.8kg"
+        }
+      },
+      {
+        "id": "005005",
+        "categoryID": "005",
+        "name": "Boat Aavante Bar 4000DA",
+        "description": "Boat Aavante Bar 4000DA with 200W output & Dolby Atmos support.",
+        "brand": "Boat",
+        "price": 14999,
+        "qty": 15,
+        "discount": 15,
+        "sellingPrice": 12749,
+        "image": "https://www.boat-lifestyle.com/cdn/shop/files/Artboard6_259902fa-69ef-4495-b388-34c7a19efada_1024x.png?v=1711019705",
+        "specification": {
+          "totalOutput": "200W",
+          "channels": "2.1",
+          "wirelessSubwoofer": "Yes",
+          "surroundSound": "Dolby Atmos",
+          "connectivity": "Bluetooth, HDMI ARC, Optical",
+          "control": "Remote Control",
+          "weight": "7.5kg"
+        }
+      },
+      {
+        "id": "005006",
+        "categoryID": "005",
+        "name": "Zebronics Zeb-Juke Bar 9500WS Pro",
+        "description": "Zebronics Zeb-Juke Bar 9500WS Pro with 525W output & wireless surround speakers.",
+        "brand": "Zebronics",
+        "price": 22999,
+        "qty": 20,
+        "discount": 12,
+        "sellingPrice": 20239,
+        "image": "https://shop.zebronics.com/cdn/shop/products/ZEB-Juke-Bar-9500WS-Pro-Dolby-5-pic-1_1024x1024_4e6b39e4-1089-4e49-9762-2bbd38b6b336.webp?v=1700565462&width=1024",
+        "specification": {
+          "totalOutput": "525W",
+          "channels": "5.1",
+          "wirelessSubwoofer": "Yes",
+          "surroundSound": "Dolby Digital Plus",
+          "connectivity": "Bluetooth, HDMI ARC, Optical, USB",
+          "control": "Remote Control",
+          "weight": "8.5kg"
+        }
+      },
+      {
+        "id": "005007",
+        "categoryID": "005",
+        "name": "Blaupunkt SBWL100 Dolby Atmos Soundbar",
+        "description": "Blaupunkt SBWL100 with 360W output, Dolby Atmos, & wireless subwoofer.",
+        "brand": "Blaupunkt",
+        "price": 17999,
+        "qty": 18,
+        "discount": 10,
+        "sellingPrice": 16199,
+        "image": "https://m.media-amazon.com/images/I/61Wfy+l10NL.jpg",
+        "specification": {
+          "totalOutput": "360W",
+          "channels": "2.1",
+          "wirelessSubwoofer": "Yes",
+          "surroundSound": "Dolby Atmos",
+          "connectivity": "Bluetooth, HDMI ARC, Optical",
+          "control": "Remote Control",
+          "weight": "6.8kg"
+        }
+      },
+      {
+        "id": "005008",
+        "categoryID": "005",
+        "name": "LG SN4 2.1 Channel Soundbar",
+        "description": "LG SN4 soundbar with 300W power, AI Sound Pro, & DTS Virtual:X.",
+        "brand": "LG",
+        "price": 21999,
+        "qty": 12,
+        "discount": 10,
+        "sellingPrice": 19799,
+        "image": "https://www.picclickimg.com/pWkAAOSw-ntguxhf/LG-SN4-soundbar-speaker-21-CH-channel-300W.webp",
+        "specification": {
+          "totalOutput": "300W",
+          "channels": "2.1",
+          "wirelessSubwoofer": "Yes",
+          "surroundSound": "DTS Virtual:X",
+          "connectivity": "Bluetooth, HDMI ARC, Optical",
+          "control": "Remote Control",
+          "weight": "7.2kg"
+        }
+      }
+    ]
+  
+  
+  },
+  {
+    "categoryID": "006",
+    "category": "Head Phones",
+	"category_img":"https://sathya.in/media/91270/catalog/ear1%20(2).jpg",
+  
+    "products": [
+      {
+        "id": "006001",
+        "categoryID": "006",
+        "name": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+        "description": "Sony WH-1000XM5 with industry-leading noise cancellation & 30-hour battery life.",
+        "brand": "Sony",
+        "price": 34990,
+        "qty": 12,
+        "discount": 12,
+        "sellingPrice": 30711,
+        "image": "https://d1ncau8tqf99kp.cloudfront.net/converted/103364_original_local_504x441_v3_converted.webp",
+        "specification": {
+          "type": "Over-Ear",
+          "batteryLife": "30 hours",
+          "noiseCancellation": "Yes (ANC)",
+          "connectivity": "Bluetooth 5.2, USB-C",
+          "audioTech": "Hi-Res Audio, LDAC",
+          "weight": "250g"
+        }
+      },
+      {
+        "id": "006002",
+        "categoryID": "006",
+        "name": "Apple AirPods Max",
+        "description": "Apple AirPods Max with spatial audio, active noise cancellation & seamless Apple ecosystem integration.",
+        "brand": "Apple",
+        "price": 59900,
+        "qty": 10,
+        "discount": 10,
+        "sellingPrice": 53910,
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-spacegray-202011?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1604022365000",
+        "specification": {
+          "type": "Over-Ear",
+          "batteryLife": "20 hours",
+          "noiseCancellation": "Yes (ANC)",
+          "connectivity": "Bluetooth 5.0, Lightning",
+          "audioTech": "Spatial Audio, H1 Chip",
+          "weight": "385g"
+        }
+      },
+      {
+        "id": "006003",
+        "categoryID": "006",
+        "name": "Bose QuietComfort 45",
+        "description": "Bose QuietComfort 45 with noise cancellation, 24-hour battery life & lightweight design.",
+        "brand": "Bose",
+        "price": 32990,
+        "qty": 15,
+        "discount": 15,
+        "sellingPrice": 28041,
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/acf6be7b-fe86-4efc-a27d-b0981aacbdb8.__CR0,0,600,450_PT0_SX600_V1___.jpg",
+        "specification": {
+          "type": "Over-Ear",
+          "batteryLife": "24 hours",
+          "noiseCancellation": "Yes (ANC)",
+          "connectivity": "Bluetooth 5.1, USB-C",
+          "audioTech": "TriPort Acoustic Architecture",
+          "weight": "240g"
+        }
+      },
+      {
+        "id": "006004",
+        "categoryID": "006",
+        "name": "JBL Tune 760NC",
+        "description": "JBL Tune 760NC with deep bass, active noise cancellation & 50-hour battery life.",
+        "brand": "JBL",
+        "price": 7999,
+        "qty": 20,
+        "discount": 10,
+        "sellingPrice": 7199,
+        "image": "https://in.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfda28f5a/JBL_TUNE_760NC_Product%20Image_Folded%202_Blue.png?sw=535&sh=535",
+        "specification": {
+          "type": "Over-Ear",
+          "batteryLife": "50 hours",
+          "noiseCancellation": "Yes (ANC)",
+          "connectivity": "Bluetooth 5.0, USB-C",
+          "audioTech": "Pure Bass Sound",
+          "weight": "220g"
+        }
+      },
+      {
+        "id": "006005",
+        "categoryID": "006",
+        "name": "Sennheiser Momentum 4 Wireless",
+        "description": "Sennheiser Momentum 4 with adaptive noise cancellation, Hi-Res sound & 60-hour battery life.",
+        "brand": "Sennheiser",
+        "price": 34990,
+        "qty": 10,
+        "discount": 12,
+        "sellingPrice": 30711,
+        "image": "https://m.media-amazon.com/images/I/716++4xC2wL.jpg",
+        "specification": {
+          "type": "Over-Ear",
+          "batteryLife": "60 hours",
+          "noiseCancellation": "Yes (Adaptive ANC)",
+          "connectivity": "Bluetooth 5.2, USB-C",
+          "audioTech": "Hi-Res Audio, aptX Adaptive",
+          "weight": "293g"
+        }
+      },
+      {
+        "id": "006006",
+        "categoryID": "006",
+        "name": "Boat Rockerz 550",
+        "description": "Boat Rockerz 550 with 50mm drivers, deep bass, and up to 20-hour battery life.",
+        "brand": "Boat",
+        "price": 2499,
+        "qty": 30,
+        "discount": 15,
+        "sellingPrice": 2124,
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/headphone/9/0/r/rockerz-550-boat-original-imahyftgtk6ahqjc.jpeg?q=20&crop=false",
+        "specification": {
+          "type": "Over-Ear",
+          "batteryLife": "20 hours",
+          "noiseCancellation": "Passive",
+          "connectivity": "Bluetooth 5.0, AUX",
+          "audioTech": "Boat Signature Sound",
+          "weight": "245g"
+        }
+      },
+      {
+        "id": "006007",
+        "categoryID": "006",
+        "name": "Anker Soundcore Life Q35",
+        "description": "Anker Soundcore Life Q35 with LDAC, Hi-Res audio & hybrid active noise cancellation.",
+        "brand": "Anker",
+        "price": 9999,
+        "qty": 18,
+        "discount": 10,
+        "sellingPrice": 8999,
+        "image": "https://elcytec.com/wp-content/uploads/2023/08/elcytec_soundcore_life_q35__1.jpg",
+        "specification": {
+          "type": "Over-Ear",
+          "batteryLife": "40 hours",
+          "noiseCancellation": "Yes (Hybrid ANC)",
+          "connectivity": "Bluetooth 5.0, AUX, USB-C",
+          "audioTech": "LDAC, Hi-Res Certified",
+          "weight": "270g"
+        }
+      },
+      {
+        "id": "006008",
+        "categoryID": "006",
+        "name": "Marshall Major IV Wireless Headphones",
+        "description": "Marshall Major IV with iconic sound, wireless charging & 80-hour battery life.",
+        "brand": "Marshall",
+        "price": 12999,
+        "qty": 12,
+        "discount": 12,
+        "sellingPrice": 11439,
+        "image": "https://mahajanelectronics.com/cdn/shop/files/81W9EXlzCDL._SL1500.jpg?v=1727352641",
+        "specification": {
+          "type": "On-Ear",
+          "batteryLife": "80 hours",
+          "noiseCancellation": "No",
+          "connectivity": "Bluetooth 5.0, AUX",
+          "audioTech": "Marshall Signature Sound",
+          "weight": "165g"
+        }
+      }
+    ]
+  
+  
+  },
+  {
+    "categoryID": "007",
+    "category": "Tablets",
+	"category_img":"https://www.unboxify.in/cdn/shop/files/71qlYpwQTxL._SL1500.jpg?height=645&pad_color=fff&v=1735389937&width=645",
+  
+    "products": [
+      {
+        "id": "007001",
+        "categoryID": "007",
+        "name": "Apple iPad Pro M2 (12.9-inch, Wi-Fi, 256GB)",
+        "description": "Apple iPad Pro M2 with Liquid Retina XDR, ProMotion, and Apple Pencil 2 support.",
+        "brand": "Apple",
+        "price": 124900,
+        "qty": 10,
+        "discount": 10,
+        "sellingPrice": 112410,
+        "image": "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=500,height=500,quality=75/product/apple-ipad-pro-with-apple-m2-chip-12-9-inch-wifi-cellular-1tb-space-grey-6th-generation-side-view.png",
+        "specification": {
+          "display": "12.9-inch Liquid Retina XDR",
+          "processor": "Apple M2",
+          "ram": "8GB",
+          "storage": "256GB",
+          "batteryLife": "10 hours",
+          "os": "iPadOS",
+          "camera": "12MP Rear + 10MP Ultra-wide",
+          "connectivity": "Wi-Fi 6E, Thunderbolt 4",
+          "weight": "682g"
+        }
+      },
+      {
+        "id": "007002",
+        "categoryID": "007",
+        "name": "Samsung Galaxy Tab S9 Ultra (14.6-inch, 512GB, 5G)",
+        "description": "Samsung Galaxy Tab S9 Ultra with AMOLED 2X display, S-Pen support & 5G connectivity.",
+        "brand": "Samsung",
+        "price": 134999,
+        "qty": 8,
+        "discount": 12,
+        "sellingPrice": 118799,
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1696516647/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/275614_0_jqrg3l.png",
+        "specification": {
+          "display": "14.6-inch Super AMOLED 2X",
+          "processor": "Snapdragon 8 Gen 2",
+          "ram": "12GB",
+          "storage": "512GB",
+          "batteryLife": "16 hours",
+          "os": "Android 13 (One UI)",
+          "camera": "13MP + 8MP Ultra-wide",
+          "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3",
+          "weight": "732g"
+        }
+      },
+      {
+        "id": "007003",
+        "categoryID": "007",
+        "name": "Lenovo Tab P12 Pro (12.6-inch, 256GB, Wi-Fi)",
+        "description": "Lenovo Tab P12 Pro with OLED display, Dolby Vision, and Snapdragon 870 processor.",
+        "brand": "Lenovo",
+        "price": 69999,
+        "qty": 15,
+        "discount": 10,
+        "sellingPrice": 62999,
+        "image": "https://m.media-amazon.com/images/I/51bnNyuFuYL.jpg",
+        "specification": {
+          "display": "12.6-inch OLED, Dolby Vision",
+          "processor": "Snapdragon 870",
+          "ram": "8GB",
+          "storage": "256GB",
+          "batteryLife": "15 hours",
+          "os": "Android 12L",
+          "camera": "13MP + 5MP Ultra-wide",
+          "connectivity": "Wi-Fi 6, Bluetooth 5.2",
+          "weight": "565g"
+        }
+      },
+      {
+        "id": "007004",
+        "categoryID": "007",
+        "name": "Xiaomi Pad 6 (11-inch, 256GB, Wi-Fi)",
+        "description": "Xiaomi Pad 6 with 2.8K display, Dolby Vision, and 144Hz refresh rate.",
+        "brand": "Xiaomi",
+        "price": 39999,
+        "qty": 20,
+        "discount": 15,
+        "sellingPrice": 33999,
+        "image": "https://img.myipadbox.com/upload/store/detail_l/WMC1020_B1.jpg",
+        "specification": {
+          "display": "11-inch IPS LCD, 2.8K, 144Hz",
+          "processor": "Snapdragon 870",
+          "ram": "6GB",
+          "storage": "256GB",
+          "batteryLife": "14 hours",
+          "os": "Android 13",
+          "camera": "13MP Rear, 8MP Front",
+          "connectivity": "Wi-Fi 6, Bluetooth 5.2",
+          "weight": "490g"
+        }
+      },
+      {
+        "id": "007005",
+        "categoryID": "007",
+        "name": "Realme Pad X (11-inch, 128GB, Wi-Fi)",
+        "description": "Realme Pad X with 2K display, 7,100mAh battery, and quad speakers.",
+        "brand": "Realme",
+        "price": 27999,
+        "qty": 25,
+        "discount": 12,
+        "sellingPrice": 24639,
+        "image": "https://images.fonearena.com/blog/wp-content/uploads/2022/07/realme-Pad-X.jpg",
+        "specification": {
+          "display": "11-inch IPS LCD, 2K",
+          "processor": "Snapdragon 695",
+          "ram": "4GB",
+          "storage": "128GB",
+          "batteryLife": "12 hours",
+          "os": "Android 12",
+          "camera": "13MP Rear, 8MP Front",
+          "connectivity": "Wi-Fi 5, Bluetooth 5.1",
+          "weight": "499g"
+        }
+      },
+      {
+        "id": "007006",
+        "categoryID": "007",
+        "name": "OnePlus Pad (11.6-inch, 256GB, Wi-Fi)",
+        "description": "OnePlus Pad with 144Hz LCD display, Dolby Atmos, and fast charging.",
+        "brand": "OnePlus",
+        "price": 47999,
+        "qty": 12,
+        "discount": 10,
+        "sellingPrice": 43199,
+        "image": "https://images.fonearena.com/blog/wp-content/uploads/2023/02/OnePlus-Pad-1024x741.jpg",
+        "specification": {
+          "display": "11.6-inch LCD, 144Hz",
+          "processor": "MediaTek Dimensity 9000",
+          "ram": "8GB",
+          "storage": "256GB",
+          "batteryLife": "13 hours",
+          "os": "Android 13 (OxygenOS)",
+          "camera": "13MP Rear, 8MP Front",
+          "connectivity": "Wi-Fi 6, Bluetooth 5.3",
+          "weight": "552g"
+        }
+      },
+      {
+        "id": "007007",
+        "categoryID": "007",
+        "name": "Nokia T21 (10.4-inch, 128GB, Wi-Fi)",
+        "description": "Nokia T21 tablet with a 2K display, durable design, and stock Android experience.",
+        "brand": "Nokia",
+        "price": 21999,
+        "qty": 18,
+        "discount": 10,
+        "sellingPrice": 19799,
+        "image": "https://www.etoren.com/upload/images/0.20735200_1679279672_nokia-t21-10.4-inch-lte-ta-1521-64gb-black-4gb-ram.jpg",
+        "specification": {
+          "display": "10.4-inch IPS LCD, 2K",
+          "processor": "Unisoc T612",
+          "ram": "4GB",
+          "storage": "128GB",
+          "batteryLife": "15 hours",
+          "os": "Android 12",
+          "camera": "8MP Rear, 8MP Front",
+          "connectivity": "Wi-Fi 5, Bluetooth 5.0",
+          "weight": "460g"
+        }
+      },
+      {
+        "id": "007008",
+        "categoryID": "007",
+        "name": "Honor Pad X9 (11.5-inch, 128GB, Wi-Fi)",
+        "description": "Honor Pad X9 with 120Hz refresh rate, 6 speakers, and slim metal body.",
+        "brand": "Honor",
+        "price": 22999,
+        "qty": 16,
+        "discount": 10,
+        "sellingPrice": 20699,
+        "image": "https://www.gizmochina.com/wp-content/uploads/2023/07/Honor-Pad-X9.jpg",
+        "specification": {
+          "display": "11.5-inch LCD, 120Hz",
+          "processor": "Snapdragon 685",
+          "ram": "6GB",
+          "storage": "128GB",
+          "batteryLife": "14 hours",
+          "os": "Android 13 (Magic UI)",
+          "camera": "8MP Rear, 5MP Front",
+          "connectivity": "Wi-Fi 6, Bluetooth 5.1",
+          "weight": "499g"
+        }
+      }
+    ]
+  
+  
+  },
+  {
+	  "categoryID":"008",
+	  "category":"Monitors",
+	  "category_img":"https://misura.s11.cdn-upgates.com/_cache/c/1/c15cd65eecf37eef2e0f6214a1658d3e-eg34rwa-foto05.jpg",
+      "products": [
+        {
+          "id": "008001",
+          "categoryID": "008",
+          "name": "LG UltraGear 27GN950-B 27-inch 4K Gaming Monitor",
+          "description": "LG UltraGear 27-inch 4K Nano IPS monitor with 144Hz refresh rate & G-Sync compatibility.",
+          "brand": "LG",
+          "price": 79999,
+          "qty": 10,
+          "discount": 12,
+          "sellingPrice": 70399,
+          "image": "https://www.lg.com/content/dam/channel/wcms/pl/images/monitory/27gn950-b_aeu_eepl_pl_c/gallery/DZ-1v.jpg",
+          "specification": {
+            "displaySize": "27-inch",
+            "resolution": "4K UHD (3840x2160)",
+            "refreshRate": "144Hz",
+            "panelType": "Nano IPS",
+            "responseTime": "1ms",
+            "features": "G-Sync, HDR 600, RGB Lighting",
+            "connectivity": "HDMI, DisplayPort, USB-C",
+            "weight": "7.6kg"
+          }
+        },
+        {
+          "id": "008002",
+          "categoryID": "008",
+          "name": "Dell UltraSharp U2723QE 27-inch 4K Monitor",
+          "description": "Dell UltraSharp 27-inch 4K IPS monitor with DisplayHDR 400 and 100% sRGB coverage.",
+          "brand": "Dell",
+          "price": 64999,
+          "qty": 12,
+          "discount": 10,
+          "sellingPrice": 58499,
+          "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/u-series/u2723qe/media-gallery/monitor-u2723qe-gallery-4.psd?fmt=pjpg&pscan=auto&scl=1&wid=3471&hei=3200&qlt=100,1&resMode=sharp2&size=3471,3200&chrss=full&imwidth=5000",
+          "specification": {
+            "displaySize": "27-inch",
+            "resolution": "4K UHD (3840x2160)",
+            "refreshRate": "60Hz",
+            "panelType": "IPS",
+            "responseTime": "5ms",
+            "features": "HDR 400, 100% sRGB, ComfortView Plus",
+            "connectivity": "HDMI, DisplayPort, USB-C, RJ45",
+            "weight": "6.9kg"
+          }
+        },
+        {
+          "id": "008003",
+          "categoryID": "008",
+          "name": "ASUS TUF Gaming VG27AQL1A 27-inch QHD Monitor",
+          "description": "ASUS TUF Gaming 27-inch QHD monitor with 170Hz refresh rate and ELMB Sync.",
+          "brand": "ASUS",
+          "price": 46999,
+          "qty": 15,
+          "discount": 15,
+          "sellingPrice": 39949,
+          "image": "https://5.imimg.com/data5/SELLER/Default/2021/10/OX/QZ/XT/14784735/asus-tuf-vg27aq-500x500.png",
+          "specification": {
+            "displaySize": "27-inch",
+            "resolution": "QHD (2560x1440)",
+            "refreshRate": "170Hz",
+            "panelType": "IPS",
+            "responseTime": "1ms",
+            "features": "G-Sync, FreeSync, HDR10",
+            "connectivity": "HDMI, DisplayPort",
+            "weight": "5.8kg"
+          }
+        },
+        {
+          "id": "008004",
+          "categoryID": "008",
+          "name": "Samsung Smart M8 32-inch 4K UHD Monitor",
+          "description": "Samsung Smart M8 with built-in apps, wireless Dex, and 4K HDR10+ display.",
+          "brand": "Samsung",
+          "price": 59999,
+          "qty": 8,
+          "discount": 10,
+          "sellingPrice": 53999,
+          "image": "https://images.samsung.com/is/image/samsung/p6pim/in/ls32dm801uwxxl/gallery/in-smart-m8-32m80d-ls32dm801uwxxl-541962972?$684_547_PNG$",
+          "specification": {
+            "displaySize": "32-inch",
+            "resolution": "4K UHD (3840x2160)",
+            "refreshRate": "60Hz",
+            "panelType": "VA",
+            "responseTime": "4ms",
+            "features": "Smart TV Apps, HDR10+, Wireless Dex",
+            "connectivity": "HDMI, USB-C, Wi-Fi 6, Bluetooth",
+            "weight": "6.7kg"
+          }
+        },
+        {
+          "id": "008005",
+          "categoryID": "008",
+          "name": "BenQ EX3501R 35-inch Ultrawide Curved Monitor",
+          "description": "BenQ EX3501R ultrawide 35-inch 100Hz curved monitor with HDR support.",
+          "brand": "BenQ",
+          "price": 72999,
+          "qty": 7,
+          "discount": 12,
+          "sellingPrice": 64239,
+          "image": "https://rukminim2.flixcart.com/image/720/864/jmccb680/monitor/b/q/a/ex3501r-ex3501r-benq-original-imaf97mwzwbatujs.jpeg?q=60&crop=false",
+          "specification": {
+            "displaySize": "35-inch",
+            "resolution": "UWQHD (3440x1440)",
+            "refreshRate": "100Hz",
+            "panelType": "VA",
+            "responseTime": "4ms",
+            "features": "HDR10, Eye-Care, Adaptive Sync",
+            "connectivity": "HDMI, DisplayPort, USB-C",
+            "weight": "9.2kg"
+          }
+        },
+        {
+          "id": "008006",
+          "categoryID": "008",
+          "name": "Acer Nitro XV272U 27-inch QHD Gaming Monitor",
+          "description": "Acer Nitro XV272U 27-inch gaming monitor with 170Hz refresh rate & FreeSync Premium.",
+          "brand": "Acer",
+          "price": 31999,
+          "qty": 20,
+          "discount": 10,
+          "sellingPrice": 28799,
+          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Acer_Nitro_XV272U_RV_2.jpg",
+          "specification": {
+            "displaySize": "27-inch",
+            "resolution": "QHD (2560x1440)",
+            "refreshRate": "170Hz",
+            "panelType": "IPS",
+            "responseTime": "1ms",
+            "features": "FreeSync Premium, HDR400, 99% sRGB",
+            "connectivity": "HDMI, DisplayPort, USB 3.0",
+            "weight": "5.4kg"
+          }
+        },
+        {
+          "id": "008007",
+          "categoryID": "008",
+          "name": "MSI Optix MAG321QR 32-inch QHD Gaming Monitor",
+          "description": "MSI Optix MAG321QR with 165Hz refresh rate, HDR Ready & G-Sync compatibility.",
+          "brand": "MSI",
+          "price": 38999,
+          "qty": 15,
+          "discount": 12,
+          "sellingPrice": 34319,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpw_7XmuHAF4lPVHulSptKoDegpgZwzhcrLg&s",
+          "specification": {
+            "displaySize": "32-inch",
+            "resolution": "QHD (2560x1440)",
+            "refreshRate": "165Hz",
+            "panelType": "IPS",
+            "responseTime": "1ms",
+            "features": "HDR Ready, G-Sync, Night Vision",
+            "connectivity": "HDMI, DisplayPort, USB-C",
+            "weight": "7.3kg"
+          }
+        },
+        {
+          "id": "008008",
+          "categoryID": "008",
+          "name": "HP M27ha 27-inch Full HD IPS Monitor",
+          "description": "HP M27ha 27-inch Full HD IPS monitor with ergonomic design & low blue light mode.",
+          "brand": "HP",
+          "price": 18999,
+          "qty": 30,
+          "discount": 15,
+          "sellingPrice": 16149,
+          "image": "https://shop.clarioncomputers.in/wp-content/uploads/2024/07/c06756091.png",
+          "specification": {
+            "displaySize": "27-inch",
+            "resolution": "Full HD (1920x1080)",
+            "refreshRate": "75Hz",
+            "panelType": "IPS",
+            "responseTime": "5ms",
+            "features": "Ergonomic Stand, Low Blue Light",
+            "connectivity": "HDMI, VGA, DisplayPort",
+            "weight": "4.8kg"
+          }
+        }
+      ]
+    
+    
+  },
+    {
+	  "categoryID":"009",
+	  "category":"Washing Machines",
+	  "category_img":"https://media.croma.com/image/upload/v1655370906/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/253429_2_rwyuli.png",
+      "products": [
+        {
+          "id": "009001",
+          "categoryID": "009",
+          "name": "LG 8 Kg Inverter Fully Automatic Front Load Washing Machine",
+          "description": "LG 8 Kg Front Load washing machine with 6 Motion Direct Drive, inverter motor & steam wash.",
+          "brand": "LG",
+          "price": 42990,
+          "qty": 10,
+          "discount": 12,
+          "sellingPrice": 37831,
+          "image": "https://www.lg.com/content/dam/channel/wcms/in/images/washing-machines/fhm1408bdl_alsqeil_eail_in_c/gallery/FHM1408BDL-Washing-Machines-Front-View-DZ-01-v1.jpg",
+          "specification": {
+            "capacity": "8 Kg",
+            "type": "Fully Automatic Front Load",
+            "energyRating": "5 Star",
+            "motorTechnology": "Inverter Direct Drive",
+            "features": "6 Motion DD, Steam Wash, Smart Diagnosis",
+            "drumType": "Stainless Steel",
+            "connectivity": "Wi-Fi, SmartThinQ App",
+            "weight": "65kg"
+          }
+        },
+        {
+          "id": "009002",
+          "categoryID": "009",
+          "name": "Samsung 7 Kg Inverter Fully Automatic Front Load Washing Machine",
+          "description": "Samsung 7 Kg Front Load washing machine with EcoBubble technology & Hygiene Steam.",
+          "brand": "Samsung",
+          "price": 35990,
+          "qty": 12,
+          "discount": 10,
+          "sellingPrice": 32391,
+          "image": "https://images.samsung.com/is/image/samsung/p6pim/in/wa70bg4545bdtl/gallery/in-wa4000b-432792-wa70bg4545bdtl-533344235?$684_547_PNG$$",
+          "specification": {
+            "capacity": "7 Kg",
+            "type": "Fully Automatic Front Load",
+            "energyRating": "5 Star",
+            "motorTechnology": "Digital Inverter",
+            "features": "EcoBubble, Hygiene Steam, Quick Wash",
+            "drumType": "Diamond Drum",
+            "connectivity": "Wi-Fi, SmartThings App",
+            "weight": "59kg"
+          }
+        },
+        {
+          "id": "009003",
+          "categoryID": "009",
+          "name": "IFB 6.5 Kg Fully Automatic Top Load Washing Machine",
+          "description": "IFB 6.5 Kg top load washing machine with Aqua Energie, 3D Wash & Smart Sense.",
+          "brand": "IFB",
+          "price": 24990,
+          "qty": 15,
+          "discount": 12,
+          "sellingPrice": 21991,
+          "image": "https://img-prd-pim.poorvika.com/product/IFB-6-5-Kg-Fully-Automatic-Top-Load-Washing-Machine-TL-RSS-Aqua-Light-Gray-6-5-KG-1.png",
+          "specification": {
+            "capacity": "6.5 Kg",
+            "type": "Fully Automatic Top Load",
+            "energyRating": "5 Star",
+            "motorTechnology": "Smart Inverter Motor",
+            "features": "Aqua Energie, 3D Wash, Smart Sense",
+            "drumType": "Crescent Moon Drum",
+            "connectivity": "No",
+            "weight": "40kg"
+          }
+        },
+        {
+          "id": "009004",
+          "categoryID": "009",
+          "name": "Whirlpool 7.5 Kg 5 Star Fully Automatic Top Load Washing Machine",
+          "description": "Whirlpool 7.5 Kg top load washing machine with Power Scrub Technology & Hard Water Wash.",
+          "brand": "Whirlpool",
+          "price": 21990,
+          "qty": 18,
+          "discount": 10,
+          "sellingPrice": 19791,
+          "image": "https://whirlpoolindia.vtexassets.com/arquivos/ids/169590-800-auto?v=638723647342200000&width=800&height=auto&aspect=true",
+          "specification": {
+            "capacity": "7.5 Kg",
+            "type": "Fully Automatic Top Load",
+            "energyRating": "5 Star",
+            "motorTechnology": "Power Scrub Motor",
+            "features": "Hard Water Wash, ZPF Technology, Smart Sensors",
+            "drumType": "Steel Drum",
+            "connectivity": "No",
+            "weight": "36kg"
+          }
+        },
+        {
+          "id": "009005",
+          "categoryID": "009",
+          "name": "Bosch 9 Kg Fully Automatic Front Load Washing Machine",
+          "description": "Bosch 9 Kg front load washing machine with Anti-Vibration design, EcoSilence Drive & SpeedPerfect.",
+          "brand": "Bosch",
+          "price": 57990,
+          "qty": 8,
+          "discount": 12,
+          "sellingPrice": 51031,
+          "image": "https://www.jiomart.com/images/product/original/494351631/bosch-9-kg-front-load-fully-automatic-washing-machine-white-wga1420sin-digital-o494351631-p606544382-0-202312051907.jpeg?im=Resize=(420,420)",
+          "specification": {
+            "capacity": "9 Kg",
+            "type": "Fully Automatic Front Load",
+            "energyRating": "5 Star",
+            "motorTechnology": "EcoSilence Drive",
+            "features": "SpeedPerfect, Anti-Vibration, VarioDrum",
+            "drumType": "VarioDrum Stainless Steel",
+            "connectivity": "Wi-Fi, Home Connect App",
+            "weight": "74kg"
+          }
+        },
+        {
+          "id": "009006",
+          "categoryID": "009",
+          "name": "Panasonic 6.5 Kg Fully Automatic Top Load Washing Machine",
+          "description": "Panasonic 6.5 Kg top load washing machine with Aqua Beat, Active Foam Wash & One Touch Wash.",
+          "brand": "Panasonic",
+          "price": 20990,
+          "qty": 20,
+          "discount": 15,
+          "sellingPrice": 17841,
+          "image": "https://store.in.panasonic.com/media/catalog/product/cache/40b589206cef99ab7dca1586fe425968/n/a/na-f65lf3crb_info_1.webp",
+          "specification": {
+            "capacity": "6.5 Kg",
+            "type": "Fully Automatic Top Load",
+            "energyRating": "5 Star",
+            "motorTechnology": "Belt Drive Motor",
+            "features": "Aqua Beat, Active Foam Wash, One Touch Wash",
+            "drumType": "Sazanami Drum",
+            "connectivity": "No",
+            "weight": "38kg"
+          }
+        },
+        {
+          "id": "009007",
+          "categoryID": "009",
+          "name": "Godrej 7 Kg 5 Star Fully Automatic Top Load Washing Machine",
+          "description": "Godrej 7 Kg washing machine with Turbo 6 Pulsator, Aqua Jet & 9 Wash Programs.",
+          "brand": "Godrej",
+          "price": 18999,
+          "qty": 25,
+          "discount": 12,
+          "sellingPrice": 16719,
+          "image": "https://5.imimg.com/data5/SELLER/Default/2023/2/CD/NG/OH/25357593/71rmja79upl-sl1500--500x500.jpg",
+          "specification": {
+            "capacity": "7 Kg",
+            "type": "Fully Automatic Top Load",
+            "energyRating": "5 Star",
+            "motorTechnology": "Turbo 6 Pulsator",
+            "features": "Aqua Jet, 9 Wash Programs, iWash Technology",
+            "drumType": "Stainless Steel",
+            "connectivity": "No",
+            "weight": "34kg"
+          }
+        },
+        {
+          "id": "009008",
+          "categoryID": "009",
+          "name": "Haier 8 Kg Fully Automatic Front Load Washing Machine",
+          "description": "Haier 8 Kg front load washing machine with inverter motor, anti-bacterial wash & 15 wash programs.",
+          "brand": "Haier",
+          "price": 32990,
+          "qty": 14,
+          "discount": 10,
+          "sellingPrice": 29691,
+          "image": "https://media.croma.com/image/upload/v1683557565/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/270728_0_sd6olx.png",
+          "specification": {
+            "capacity": "8 Kg",
+            "type": "Fully Automatic Front Load",
+            "energyRating": "5 Star",
+            "motorTechnology": "Inverter Motor",
+            "features": "Anti-Bacterial Wash, 15 Wash Programs, LED Display",
+            "drumType": "Stainless Steel",
+            "connectivity": "No",
+            "weight": "60kg"
+          }
+        }
+      ]    
+  },
+    {
+	  "categoryID":"0010",
+	  "category":"Refrigerator",
+	  "category_img":"https://www.sathya.store/img/product/Trzmd5hSl1nDfIrL.webp",
+      "products": [
+        {
+          "id": "010001",
+          "categoryID": "010",
+          "name": "Samsung 657L Side-by-Side Refrigerator",
+          "description": "Samsung 657L side-by-side refrigerator with SpaceMax technology, Digital Inverter, and SmartThings AI.",
+          "brand": "Samsung",
+          "price": 124990,
+          "qty": 8,
+          "discount": 12,
+          "sellingPrice": 109991,
+          "image": "https://images.samsung.com/is/image/samsung/in-side-by-side-rs74t5f01b4tl-rs74t5f01b4-tl-lperspectiveblack-257500622?$684_547_PNG$",
+          "specification": {
+            "capacity": "657L",
+            "type": "Side-by-Side",
+            "energyRating": "3 Star",
+            "compressor": "Digital Inverter",
+            "features": "SpaceMax, SmartThings AI, Convertible Modes",
+            "coolingTechnology": "Twin Cooling Plus",
+            "weight": "103kg"
+          }
+        },
+        {
+          "id": "010002",
+          "categoryID": "010",
+          "name": "LG 516L Frost Free Double Door Refrigerator",
+          "description": "LG 516L refrigerator with inverter compressor, convertible feature & Door Cooling+ technology.",
+          "brand": "LG",
+          "price": 76990,
+          "qty": 10,
+          "discount": 10,
+          "sellingPrice": 69291,
+          "image": "https://assets.nikshanonline.com/wp-content/uploads/2024/03/LG-246-L-3-Star-Smart-Inverter-Frost-Free-Double-Door-Refrigerator-Appliance-2023-Model-GL-S262SDSX-Dazzle-Steel-Convertible-2.png",
+          "specification": {
+            "capacity": "516L",
+            "type": "Double Door",
+            "energyRating": "4 Star",
+            "compressor": "Inverter Compressor",
+            "features": "Door Cooling+, Convertible Mode, Smart Diagnosis",
+            "coolingTechnology": "Multi Air Flow",
+            "weight": "78kg"
+          }
+        },
+        {
+          "id": "010003",
+          "categoryID": "010",
+          "name": "Whirlpool 240L Frost Free Multi-Door Refrigerator",
+          "description": "Whirlpool 240L triple-door refrigerator with Zeolite technology and Microblock technology.",
+          "brand": "Whirlpool",
+          "price": 34990,
+          "qty": 15,
+          "discount": 12,
+          "sellingPrice": 30711,
+          "image": "https://kaydeeelectronics.in/cdn/shop/files/untitled-design-2024-07-14t174515128-6693c270c9259.webp?v=1720959625&width=1946",
+          "specification": {
+            "capacity": "240L",
+            "type": "Triple Door",
+            "energyRating": "3 Star",
+            "compressor": "IntelliSense Inverter",
+            "features": "Zeolite Technology, Microblock, Air Boosters",
+            "coolingTechnology": "Adaptive Intelligence Cooling",
+            "weight": "55kg"
+          }
+        },
+        {
+          "id": "010004",
+          "categoryID": "010",
+          "name": "Haier 320L 3 Star Frost Free Double Door Refrigerator",
+          "description": "Haier 320L double door refrigerator with Twin Inverter Technology and 1 Hour Icing Technology.",
+          "brand": "Haier",
+          "price": 37990,
+          "qty": 20,
+          "discount": 15,
+          "sellingPrice": 32291,
+          "image": "https://static.wixstatic.com/media/94060f_32f5c46ba64c48a3b8cc652c17e9b25d~mv2.png/v1/fill/w_490,h_490,al_c,lg_1,q_85,enc_auto/94060f_32f5c46ba64c48a3b8cc652c17e9b25d~mv2.png",
+          "specification": {
+            "capacity": "320L",
+            "type": "Double Door",
+            "energyRating": "3 Star",
+            "compressor": "Twin Inverter",
+            "features": "1 Hour Icing, Turbo Icing, Convertible Mode",
+            "coolingTechnology": "Frost-Free Cooling",
+            "weight": "68kg"
+          }
+        },
+        {
+          "id": "010005",
+          "categoryID": "010",
+          "name": "Godrej 190L 5 Star Single Door Refrigerator",
+          "description": "Godrej 190L single door refrigerator with inverter technology and largest vegetable tray.",
+          "brand": "Godrej",
+          "price": 17999,
+          "qty": 25,
+          "discount": 10,
+          "sellingPrice": 16199,
+          "image": "https://static.wixstatic.com/media/94060f_32f5c46ba64c48a3b8cc652c17e9b25d~mv2.png/v1/fill/w_490,h_490,al_c,lg_1,q_85,enc_auto/94060f_32f5c46ba64c48a3b8cc652c17e9b25d~mv2.png",
+          "specification": {
+            "capacity": "190L",
+            "type": "Single Door",
+            "energyRating": "5 Star",
+            "compressor": "Inverter Compressor",
+            "features": "Largest Vegetable Tray, Anti-Bacterial Gasket",
+            "coolingTechnology": "Direct Cool",
+            "weight": "42kg"
+          }
+        },
+        {
+          "id": "010006",
+          "categoryID": "010",
+          "name": "Panasonic 584L Side-by-Side Refrigerator",
+          "description": "Panasonic 584L refrigerator with AI-enabled inverter compressor and Smart Cooling.",
+          "brand": "Panasonic",
+          "price": 87990,
+          "qty": 12,
+          "discount": 10,
+          "sellingPrice": 79191,
+          "image": "https://www.jiomart.com/images/product/original/491604544/panasonic-584-litres-side-by-side-refrigerator-stainless-steel-nr-bs60msx1-digital-o491604544-p590039972-1-202009260717.jpeg?im=Resize=(420,420)",
+          "specification": {
+            "capacity": "584L",
+            "type": "Side-by-Side",
+            "energyRating": "3 Star",
+            "compressor": "AI Inverter Compressor",
+            "features": "Smart Cooling, Fast Freezing, Door Alarm",
+            "coolingTechnology": "Multi Airflow Cooling",
+            "weight": "102kg"
+          }
+        },
+        {
+          "id": "010007",
+          "categoryID": "010",
+          "name": "Bosch 507L Frost Free Double Door Refrigerator",
+          "description": "Bosch 507L frost-free refrigerator with VitaFresh technology and SuperCooling feature.",
+          "brand": "Bosch",
+          "price": 72990,
+          "qty": 9,
+          "discount": 12,
+          "sellingPrice": 64231,
+          "image": "https://s3b.cashify.in/gpro/uploads/2023/01/14115306/bosch-kdd46xi30i-401-ltr-double-door-front.jpg",
+          "specification": {
+            "capacity": "507L",
+            "type": "Double Door",
+            "energyRating": "4 Star",
+            "compressor": "ProSmart Inverter",
+            "features": "VitaFresh, SuperCooling, Multi Airflow",
+            "coolingTechnology": "Frost-Free",
+            "weight": "89kg"
+          }
+        },
+        {
+          "id": "010008",
+          "categoryID": "010",
+          "name": "Hisense 386L 2 Star Frost Free Convertible Refrigerator",
+          "description": "Hisense 386L convertible refrigerator with inverter compressor and Total No Frost technology.",
+          "brand": "Hisense",
+          "price": 42990,
+          "qty": 15,
+          "discount": 10,
+          "sellingPrice": 38691,
+          "image": "https://rukminim2.flixcart.com/image/850/1000/kfyasnk0/refrigerator-new/c/n/a/rt39t5c38s9-tl-2-samsung-original-imafwajvx4bu352e.jpeg?q=90&crop=false",
+          "specification": {
+            "capacity": "386L",
+            "type": "Convertible Double Door",
+            "energyRating": "2 Star",
+            "compressor": "Inverter Compressor",
+            "features": "Total No Frost, Fast Freezing, Multi Airflow",
+            "coolingTechnology": "Frost-Free",
+            "weight": "72kg"
+          }
+        }
+      ]
+    
+  },
+    {
+	  "categoryID":"0011",
+	  "category":"Air Conditioners",
+	  "category_img":"https://image.made-in-china.com/2f0j00LCBWiedIrbUq/China-Factory-Customizable-12000-BTU-Non-Inverter-Split-Air-Conditioners-AC-Units-for-Home-Smart-1-5-Hsp-Air-Conditioning.webp",
+      "products": [
+        {
+          "id": "011001",
+          "categoryID": "011",
+          "name": "LG 1.5 Ton 5 Star AI DUAL Inverter Split AC",
+          "description": "LG 1.5 Ton split AC with AI Dual Inverter, 6-in-1 convertible cooling & 5-star energy rating.",
+          "brand": "LG",
+          "price": 55990,
+          "qty": 10,
+          "discount": 12,
+          "sellingPrice": 49271,
+          "image": "https://www.lg.com/content/dam/channel/wcms/in/images/split-ac/ts-q19ynze_anlg_eail_in_c/gallery/TS-Q19YNZE-split-ac-left-open-door-view-DZ-06.jpg",
+          "specification": {
+            "capacity": "1.5 Ton",
+            "type": "Split AC",
+            "energyRating": "5 Star",
+            "compressor": "Dual Inverter Compressor",
+            "features": "AI Convertible 6-in-1, Anti-Virus Filter, Ocean Black Protection",
+            "coolingTechnology": "AI+ Dual Inverter",
+            "weight": "43kg"
+          }
+        },
+        {
+          "id": "011002",
+          "categoryID": "011",
+          "name": "Samsung 1.5 Ton 5 Star Inverter Split AC",
+          "description": "Samsung WindFree 1.5 Ton AC with AI Auto Cooling, Convertible 5-in-1 cooling, and 5-star efficiency.",
+          "brand": "Samsung",
+          "price": 58990,
+          "qty": 8,
+          "discount": 10,
+          "sellingPrice": 53091,
+          "image": "https://m.media-amazon.com/images/I/61Q3CimBXNL.jpg",
+          "specification": {
+            "capacity": "1.5 Ton",
+            "type": "Split AC",
+            "energyRating": "5 Star",
+            "compressor": "Digital Inverter",
+            "features": "WindFree Cooling, AI Auto Cooling, 5-in-1 Convertible Mode",
+            "coolingTechnology": "WindFree Technology",
+            "weight": "41kg"
+          }
+        },
+        {
+          "id": "011003",
+          "categoryID": "011",
+          "name": "Daikin 1.8 Ton 5 Star Inverter Split AC",
+          "description": "Daikin 1.8 Ton split AC with Triple Display, PM2.5 Filter, and Intelligent Eye Sensor.",
+          "brand": "Daikin",
+          "price": 67990,
+          "qty": 12,
+          "discount": 10,
+          "sellingPrice": 61191,
+          "image": "https://m.media-amazon.com/images/I/416aYDOny1L.jpg",
+          "specification": {
+            "capacity": "1.8 Ton",
+            "type": "Split AC",
+            "energyRating": "5 Star",
+            "compressor": "Neo Swing Inverter",
+            "features": "Triple Display, PM2.5 Filter, Intelligent Eye Sensor",
+            "coolingTechnology": "Power Chill Operation",
+            "weight": "45kg"
+          }
+        },
+        {
+          "id": "011004",
+          "categoryID": "011",
+          "name": "Voltas 1.4 Ton 3 Star Inverter Split AC",
+          "description": "Voltas 1.4 Ton split AC with Turbo Cooling, Anti-Dust Filter & Adjustable Cooling.",
+          "brand": "Voltas",
+          "price": 37990,
+          "qty": 18,
+          "discount": 12,
+          "sellingPrice": 33431,
+          "image": "https://5.imimg.com/data5/SELLER/Default/2023/4/304310644/KW/BL/WT/15794651/41tuyxwz9ml-sl1500--500x500.jpg",
+          "specification": {
+            "capacity": "1.4 Ton",
+            "type": "Split AC",
+            "energyRating": "3 Star",
+            "compressor": "Adjustable Inverter Compressor",
+            "features": "Turbo Cooling, Adjustable Cooling, Anti-Dust Filter",
+            "coolingTechnology": "Super Dry Mode",
+            "weight": "39kg"
+          }
+        },
+        {
+          "id": "011005",
+          "categoryID": "011",
+          "name": "Blue Star 1.5 Ton 4 Star Inverter Split AC",
+          "description": "Blue Star 1.5 Ton AC with Precision Cooling, Self-Clean Technology & Anti-Bacterial Filter.",
+          "brand": "Blue Star",
+          "price": 44990,
+          "qty": 20,
+          "discount": 10,
+          "sellingPrice": 40491,
+          "image": "https://5.imimg.com/data5/SELLER/Default/2023/4/304310644/KW/BL/WT/15794651/41tuyxwz9ml-sl1500--500x500.jpg",
+          "specification": {
+            "capacity": "1.5 Ton",
+            "type": "Split AC",
+            "energyRating": "4 Star",
+            "compressor": "Inverter Compressor",
+            "features": "Precision Cooling, Self-Clean, Anti-Bacterial Filter",
+            "coolingTechnology": "Blow Clean Technology",
+            "weight": "40kg"
+          }
+        }
+      ]
+    
+    
+  },
+    {
+	  "categoryID":"0012",
+	  "category":"Microwaves",
+	  "category_img":"https://www.sencor.com/Sencor/media/content/Products/40046721-06.jpg",
+      "products": [
+        {
+          "id": "012001",
+          "categoryID": "012",
+          "name": "Samsung 28L Convection Microwave Oven",
+          "description": "Samsung 28L convection microwave oven with Slim Fry, Auto Cook Menu & Ceramic Enamel Cavity.",
+          "brand": "Samsung",
+          "price": 16990,
+          "qty": 12,
+          "discount": 12,
+          "sellingPrice": 14951,
+          "image": "https://images.samsung.com/is/image/samsung/p6pim/in/mc28a5013ak-tl/gallery/in-mc28a5013-convection-microwave--28-l-mc28a5013ak-tl-532582908?$684_547_PNG$",
+          "specification": {
+            "capacity": "28L",
+            "type": "Convection",
+            "power": "2900W",
+            "controlType": "Touch & Dial",
+            "features": "Slim Fry, Auto Cook Menu, Fermentation Mode",
+            "interior": "Ceramic Enamel Cavity",
+            "weight": "17.5kg"
+          }
+        },
+        {
+          "id": "012002",
+          "categoryID": "012",
+          "name": "LG 32L Convection Microwave Oven",
+          "description": "LG 32L convection microwave oven with Charcoal Lighting Heater, Indian Roti Basket & Diet Fry.",
+          "brand": "LG",
+          "price": 22990,
+          "qty": 10,
+          "discount": 10,
+          "sellingPrice": 20691,
+          "image": "https://www.lg.com/content/dam/channel/wcms/in/images/microwave-ovens/mjen326sfw_dbkqiln_eail_in_c/gallery/MJEN326SFW-Microwave-ovens-Front-view-DZ-01.jpg",
+          "specification": {
+            "capacity": "32L",
+            "type": "Convection",
+            "power": "2500W",
+            "controlType": "Touch & Dial",
+            "features": "Charcoal Lighting Heater, Roti Basket, Diet Fry",
+            "interior": "Stainless Steel Cavity",
+            "weight": "19kg"
+          }
+        },
+        {
+          "id": "012003",
+          "categoryID": "012",
+          "name": "IFB 25L Convection Microwave Oven",
+          "description": "IFB 25L convection microwave with Auto Cook Settings, Steam Clean & Multi-Stage Cooking.",
+          "brand": "IFB",
+          "price": 15490,
+          "qty": 15,
+          "discount": 10,
+          "sellingPrice": 13941,
+          "image": "https://nandilathgmart.com/wp-content/uploads/2022/02/25sc4_25l_convection_microwave_rv_5-c1b.png",
+          "specification": {
+            "capacity": "25L",
+            "type": "Convection",
+            "power": "2000W",
+            "controlType": "Touch",
+            "features": "Steam Clean, Auto Cook, Multi-Stage Cooking",
+            "interior": "Stainless Steel Cavity",
+            "weight": "15kg"
+          }
+        },
+        {
+          "id": "012004",
+          "categoryID": "012",
+          "name": "Panasonic 20L Grill Microwave Oven",
+          "description": "Panasonic 20L grill microwave with 38 auto cook menus, Magic Grill & compact design.",
+          "brand": "Panasonic",
+          "price": 10990,
+          "qty": 20,
+          "discount": 15,
+          "sellingPrice": 9341,
+          "image": "https://m.media-amazon.com/images/I/71VWrXgbZEL._AC_UF350,350_QL80_.jpg",
+          "specification": {
+            "capacity": "20L",
+            "type": "Grill",
+            "power": "1200W",
+            "controlType": "Touch",
+            "features": "38 Auto Cook Menus, Magic Grill, Defrost Function",
+            "interior": "Glass Turntable",
+            "weight": "11kg"
+          }
+        },
+        {
+          "id": "012005",
+          "categoryID": "012",
+          "name": "Whirlpool 30L Convection Microwave Oven",
+          "description": "Whirlpool 30L convection microwave with Zero Oil Cooking, Auto Cook & Crisp Grill Technology.",
+          "brand": "Whirlpool",
+          "price": 18990,
+          "qty": 18,
+          "discount": 10,
+          "sellingPrice": 17091,
+          "image": "https://m.media-amazon.com/images/I/51qM++9VanL._AC_UF1000,1000_QL80_.jpg",
+          "specification": {
+            "capacity": "30L",
+            "type": "Convection",
+            "power": "2200W",
+            "controlType": "Touch",
+            "features": "Zero Oil Cooking, Auto Cook, Crisp Grill",
+            "interior": "Stainless Steel Cavity",
+            "weight": "18kg"
+          }
+        },
+        {
+          "id": "012006",
+          "categoryID": "012",
+          "name": "Godrej 23L Convection Microwave Oven",
+          "description": "Godrej 23L convection microwave oven with Instacook Menus, Multi-Stage Cooking & Steam Clean.",
+          "brand": "Godrej",
+          "price": 13490,
+          "qty": 25,
+          "discount": 12,
+          "sellingPrice": 11871,
+          "image": "https://www.jiomart.com/images/product/original/492664556/godrej-23-litres-convection-microwave-oven-gme-523-cf1-rm-flo-digital-o492664556-p591196216-2-202203181514.jpeg?im=Resize=(420,420)",
+          "specification": {
+            "capacity": "23L",
+            "type": "Convection",
+            "power": "1800W",
+            "controlType": "Touch",
+            "features": "Instacook Menus, Multi-Stage Cooking, Steam Clean",
+            "interior": "Glass Turntable",
+            "weight": "14kg"
+          }
+        },
+        {
+          "id": "012007",
+          "categoryID": "012",
+          "name": "Bajaj 17L Solo Microwave Oven",
+          "description": "Bajaj 17L solo microwave with mechanical control knobs, defrost function & energy-efficient operation.",
+          "brand": "Bajaj",
+          "price": 7490,
+          "qty": 30,
+          "discount": 12,
+          "sellingPrice": 6591,
+          "image": "https://5.imimg.com/data5/SELLER/Default/2020/12/EZ/YO/IV/25576184/bajaj-17-l-solo-microwave-oven.jpg",
+          "specification": {
+            "capacity": "17L",
+            "type": "Solo",
+            "power": "900W",
+            "controlType": "Mechanical Knob",
+            "features": "Defrost Function, Timer Control, Low Power Consumption",
+            "interior": "Glass Turntable",
+            "weight": "10kg"
+          }
+        },
+        {
+          "id": "012008",
+          "categoryID": "012",
+          "name": "Haier 28L Convection Microwave Oven",
+          "description": "Haier 28L convection microwave with 400 auto cook recipes, Steam Clean & Child Lock.",
+          "brand": "Haier",
+          "price": 15990,
+          "qty": 15,
+          "discount": 10,
+          "sellingPrice": 14391,
+          "image": "https://rukminim2.flixcart.com/image/720/864/jtx9evk0/microwave-new/y/u/m/hil2801rbsj-haier-original-imaff5y55fbrhrsz.jpeg?q=60&crop=false",
+          "specification": {
+            "capacity": "28L",
+            "type": "Convection",
+            "power": "2500W",
+            "controlType": "Touch",
+            "features": "400 Auto Cook Recipes, Steam Clean, Child Lock",
+            "interior": "Stainless Steel Cavity",
+            "weight": "16kg"
+          }
+        }
+      ]
+        
+  }
+]
