@@ -28,7 +28,6 @@ function ProductsList() {
                 product.originalPrice) *
                 100
             );
-            console.log(product);
             return (
               <div className="col" key={product.id}>
                 <div

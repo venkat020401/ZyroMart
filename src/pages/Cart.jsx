@@ -1,4 +1,4 @@
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import { useCart } from "../context/CartContext";
 
 const Cart = () => {
@@ -10,7 +10,6 @@ const Cart = () => {
     placeOrder();
     navigate("/orders");
   };
-  console.log(cart);
   const totalItems = cart.reduce((total, item) => total + item.qty, 0);
   const totalPrice = cart.reduce(
     (total, item) => total + item.sellingPrice * item.qty,
@@ -43,7 +42,11 @@ const Cart = () => {
               cart.map((item) => (
                 <div
                   key={item.id}
-                  className="border p-3 mb-3 bg-white rounded shadow-sm"
+                  style={{cursor:'pointer'}}
+                  className="border p-3 mb-3 bg-white rounded shadow-sm h-card card"
+                  onClick={() =>
+                    navigate(`/product-details/${item.categoryID}/${item.id}`)
+                  }
                 >
                   <div className="d-flex align-items-start">
                     <div className="d-flex flex-column align-items-center">
@@ -76,13 +79,16 @@ const Cart = () => {
                       <div className="d-flex align-items-center justify-content-between mt-2">
                         <div className="d-flex align-items-center">
                           <button
-                            className="btn btn-outline-secondary btn-sm rounded-circle p-1 d-flex align-items-center justify-content-center"
+                            className={`btn btn-outline-secondary btn-sm rounded-circle p-1 d-flex align-items-center justify-content-center  ${item.qty == 1 ? "disabled" : ""}`}
                             style={{
                               width: "24px",
                               height: "24px",
                               fontSize: "12px",
                             }}
-                            onClick={() => decreaseQty(item.id)}
+                            onClick={(event) => {
+                              event.stopPropagation();
+                              decreaseQty(item.id);
+                            }}
                           >
                             -
                           </button>
@@ -103,7 +109,11 @@ const Cart = () => {
                               height: "24px",
                               fontSize: "12px",
                             }}
-                            onClick={() => increaseQty(item.id)}
+                            onClick={(event) => {
+                              event.stopPropagation();
+                              increaseQty(item.id)
+                            }}
+                            
                           >
                             +
                           </button>
@@ -111,7 +121,11 @@ const Cart = () => {
 
                         <button
                           className="btn text-danger fw-bold px-0 d-flex align-items-center"
-                          onClick={() => removeFromCart(item.id)}
+                          onClick={(event) => {
+                            event.stopPropagation();
+                            removeFromCart(item.id);
+                          }}
+                        
                         >
                           <i
                             className="bi bi-trash me-1"

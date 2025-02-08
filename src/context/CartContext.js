@@ -27,12 +27,10 @@ export const CartProvider = ({ children }) => {
     const getCartTotal = () => {return cart.reduce((total, item) => total + item.qty, 0);};
     const placeOrder = () => {
         if (cart.length === 0) return;
-    
         const newOrders = cart.map((item) => ({
           ...item,
           status: "Delivered",
-          qty: item.qty,
-          date: new Date().toLocaleDateString("en-US", { month: "short", day: "2-digit", year: "numeric" }),
+          qty: item.qty          
         }));
     
         setOrders((prevOrders) => [...prevOrders, ...newOrders]);

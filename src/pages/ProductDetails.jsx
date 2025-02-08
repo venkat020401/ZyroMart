@@ -99,7 +99,7 @@ const ProductDetail = () => {
               </div>
             ) : (
               <button
-                className="btn btn-secondary"
+                className="btn btn-secondary mb-3"
                 style={{ minHeight: "40px" }} 
                 onClick={() => addToCart(product)}
               >
