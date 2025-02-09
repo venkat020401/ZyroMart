@@ -525,6 +525,7 @@
         "sellingPrice": 40410,
         "image": "https://cdn0.it4profit.com/s3size/rt:fill/w:900/h:900/g:no/el:1/f:webp/plain/s3://cms/product/c3/75/c375af8f573f5f22ec2b0111f674ad98/230914140010023680.webp",
         "specification": {
+          "color": "Pink",
           "display": "1.9-inch Always-On Retina",
           "batteryLife": "18 hours",
           "waterResistance": "50m",
@@ -546,6 +547,7 @@
         "sellingPrice": 32559,
         "image": "https://images.samsung.com/in/galaxy-watch6-classic/feature/galaxy-watch5-pro-gray-titanium.jpg",
         "specification": {
+          "color": "Grey",
           "display": "1.5-inch Super AMOLED",
           "batteryLife": "40 hours",
           "waterResistance": "5ATM + IP68",
@@ -567,6 +569,7 @@
         "sellingPrice": 44191,
         "image": "https://m.media-amazon.com/images/I/61+VFhFkAJL.jpg",
         "specification": {
+          "color": "Light Pink",
           "display": "1.3-inch AMOLED",
           "batteryLife": "9 days",
           "waterResistance": "5ATM",
@@ -588,6 +591,7 @@
         "sellingPrice": 5399,
         "image": "https://www.truesolutiononline.com/wp-content/uploads/2022/08/DIZO-WATCH-2.jpg",
         "specification": {
+          "color": "Light Grey",
           "display": "1.78-inch AMOLED",
           "batteryLife": "10 days",
           "waterResistance": "IP68",
@@ -609,6 +613,7 @@
         "sellingPrice": 15299,
         "image": "https://in.amazfit.com/cdn/shop/files/Whitebackground-1_600x600.jpg?v=1724324140",
         "specification": {
+          "color": "Black",
           "display": "1.43-inch AMOLED",
           "batteryLife": "14 days",
           "waterResistance": "5ATM",
@@ -630,6 +635,7 @@
         "sellingPrice": 2974,
         "image": "https://m.media-amazon.com/images/I/61gRRiSF2iL.jpg",
         "specification": {
+          "color": "Black",
           "display": "1.69-inch LCD",
           "batteryLife": "7 days",
           "waterResistance": "IP67",
@@ -651,6 +657,7 @@
         "sellingPrice": 4399,
         "image": "https://www.gonoise.com/cdn/shop/files/3_8cf78bd7-134a-4b21-a755-aea5507a5c69.webp?v=1721366610",
         "specification": {
+          "color": "Gold",
           "display": "1.78-inch AMOLED",
           "batteryLife": "10 days",
           "waterResistance": "IP68",
@@ -672,6 +679,7 @@
         "sellingPrice": 4049,
         "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/24364444/2023/8/29/bbe7eb45-04c9-452a-bc05-7d2584be15571693293448592-Fire-Boltt-Visionary-Ultra-Luxury-Design-with-178-AMOLED-Dis-1.jpg",
         "specification": {
+          "color": "Gold",
           "display": "1.78-inch AMOLED",
           "batteryLife": "7 days",
           "waterResistance": "IP68",
@@ -881,6 +889,7 @@
         "sellingPrice": 30711,
         "image": "https://d1ncau8tqf99kp.cloudfront.net/converted/103364_original_local_504x441_v3_converted.webp",
         "specification": {
+          "color": "Black",
           "type": "Over-Ear",
           "batteryLife": "30 hours",
           "noiseCancellation": "Yes (ANC)",
@@ -901,6 +910,7 @@
         "sellingPrice": 53910,
         "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-spacegray-202011?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1604022365000",
         "specification": {
+          "color": "Black",
           "type": "Over-Ear",
           "batteryLife": "20 hours",
           "noiseCancellation": "Yes (ANC)",
@@ -921,6 +931,7 @@
         "sellingPrice": 28041,
         "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/acf6be7b-fe86-4efc-a27d-b0981aacbdb8.__CR0,0,600,450_PT0_SX600_V1___.jpg",
         "specification": {
+          "color": "Blue",
           "type": "Over-Ear",
           "batteryLife": "24 hours",
           "noiseCancellation": "Yes (ANC)",
@@ -941,6 +952,7 @@
         "sellingPrice": 7199,
         "image": "https://in.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfda28f5a/JBL_TUNE_760NC_Product%20Image_Folded%202_Blue.png?sw=535&sh=535",
         "specification": {
+          "color": "Blue",
           "type": "Over-Ear",
           "batteryLife": "50 hours",
           "noiseCancellation": "Yes (ANC)",
@@ -961,6 +973,7 @@
         "sellingPrice": 30711,
         "image": "https://m.media-amazon.com/images/I/716++4xC2wL.jpg",
         "specification": {
+          "color": "Black",
           "type": "Over-Ear",
           "batteryLife": "60 hours",
           "noiseCancellation": "Yes (Adaptive ANC)",
@@ -981,6 +994,7 @@
         "sellingPrice": 2124,
         "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/headphone/9/0/r/rockerz-550-boat-original-imahyftgtk6ahqjc.jpeg?q=20&crop=false",
         "specification": {
+          "color": "Green",
           "type": "Over-Ear",
           "batteryLife": "20 hours",
           "noiseCancellation": "Passive",
@@ -1001,6 +1015,7 @@
         "sellingPrice": 8999,
         "image": "https://elcytec.com/wp-content/uploads/2023/08/elcytec_soundcore_life_q35__1.jpg",
         "specification": {
+          "color": "Blue",
           "type": "Over-Ear",
           "batteryLife": "40 hours",
           "noiseCancellation": "Yes (Hybrid ANC)",
@@ -1021,6 +1036,7 @@
         "sellingPrice": 11439,
         "image": "https://mahajanelectronics.com/cdn/shop/files/81W9EXlzCDL._SL1500.jpg?v=1727352641",
         "specification": {
+          "color": "Black",
           "type": "On-Ear",
           "batteryLife": "80 hours",
           "noiseCancellation": "No",
@@ -1051,6 +1067,7 @@
         "sellingPrice": 112410,
         "image": "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=500,height=500,quality=75/product/apple-ipad-pro-with-apple-m2-chip-12-9-inch-wifi-cellular-1tb-space-grey-6th-generation-side-view.png",
         "specification": {
+          "color": "Grey",
           "display": "12.9-inch Liquid Retina XDR",
           "processor": "Apple M2",
           "ram": "8GB",
@@ -1074,6 +1091,7 @@
         "sellingPrice": 118799,
         "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1696516647/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/275614_0_jqrg3l.png",
         "specification": {
+          "color": "Grey",
           "display": "14.6-inch Super AMOLED 2X",
           "processor": "Snapdragon 8 Gen 2",
           "ram": "12GB",
@@ -1097,6 +1115,7 @@
         "sellingPrice": 62999,
         "image": "https://m.media-amazon.com/images/I/51bnNyuFuYL.jpg",
         "specification": {
+          "color": "Grey",
           "display": "12.6-inch OLED, Dolby Vision",
           "processor": "Snapdragon 870",
           "ram": "8GB",
@@ -1120,6 +1139,7 @@
         "sellingPrice": 33999,
         "image": "https://img.myipadbox.com/upload/store/detail_l/WMC1020_B1.jpg",
         "specification": {
+          "color": "Blue",
           "display": "11-inch IPS LCD, 2.8K, 144Hz",
           "processor": "Snapdragon 870",
           "ram": "6GB",
@@ -1143,6 +1163,7 @@
         "sellingPrice": 24639,
         "image": "https://images.fonearena.com/blog/wp-content/uploads/2022/07/realme-Pad-X.jpg",
         "specification": {
+          "color": "Grey",
           "display": "11-inch IPS LCD, 2K",
           "processor": "Snapdragon 695",
           "ram": "4GB",
@@ -1166,6 +1187,7 @@
         "sellingPrice": 43199,
         "image": "https://images.fonearena.com/blog/wp-content/uploads/2023/02/OnePlus-Pad-1024x741.jpg",
         "specification": {
+          "color": "Green",
           "display": "11.6-inch LCD, 144Hz",
           "processor": "MediaTek Dimensity 9000",
           "ram": "8GB",
@@ -1189,6 +1211,7 @@
         "sellingPrice": 19799,
         "image": "https://www.etoren.com/upload/images/0.20735200_1679279672_nokia-t21-10.4-inch-lte-ta-1521-64gb-black-4gb-ram.jpg",
         "specification": {
+          "color": "Grey Gold",
           "display": "10.4-inch IPS LCD, 2K",
           "processor": "Unisoc T612",
           "ram": "4GB",
@@ -1212,6 +1235,7 @@
         "sellingPrice": 20699,
         "image": "https://www.gizmochina.com/wp-content/uploads/2023/07/Honor-Pad-X9.jpg",
         "specification": {
+          "color": "Grey",
           "display": "11.5-inch LCD, 120Hz",
           "processor": "Snapdragon 685",
           "ram": "6GB",
@@ -1596,7 +1620,7 @@
       ]    
   },
     {
-	  "categoryID":"0010",
+	  "categoryID":"010",
 	  "category":"Refrigerator",
 	  "category_img":"https://www.sathya.store/img/product/Trzmd5hSl1nDfIrL.webp",
       "products": [
@@ -1612,6 +1636,7 @@
           "sellingPrice": 109991,
           "image": "https://images.samsung.com/is/image/samsung/in-side-by-side-rs74t5f01b4tl-rs74t5f01b4-tl-lperspectiveblack-257500622?$684_547_PNG$",
           "specification": {
+            "color": "Black",
             "capacity": "657L",
             "type": "Side-by-Side",
             "energyRating": "3 Star",
@@ -1633,6 +1658,7 @@
           "sellingPrice": 69291,
           "image": "https://assets.nikshanonline.com/wp-content/uploads/2024/03/LG-246-L-3-Star-Smart-Inverter-Frost-Free-Double-Door-Refrigerator-Appliance-2023-Model-GL-S262SDSX-Dazzle-Steel-Convertible-2.png",
           "specification": {
+            "color": "Grey",
             "capacity": "516L",
             "type": "Double Door",
             "energyRating": "4 Star",
@@ -1654,6 +1680,7 @@
           "sellingPrice": 30711,
           "image": "https://kaydeeelectronics.in/cdn/shop/files/untitled-design-2024-07-14t174515128-6693c270c9259.webp?v=1720959625&width=1946",
           "specification": {
+            "color": "Light Grey",
             "capacity": "240L",
             "type": "Triple Door",
             "energyRating": "3 Star",
@@ -1675,6 +1702,7 @@
           "sellingPrice": 32291,
           "image": "https://static.wixstatic.com/media/94060f_32f5c46ba64c48a3b8cc652c17e9b25d~mv2.png/v1/fill/w_490,h_490,al_c,lg_1,q_85,enc_auto/94060f_32f5c46ba64c48a3b8cc652c17e9b25d~mv2.png",
           "specification": {
+            "color": "Gold Grey",
             "capacity": "320L",
             "type": "Double Door",
             "energyRating": "3 Star",
@@ -1696,6 +1724,7 @@
           "sellingPrice": 16199,
           "image": "https://static.wixstatic.com/media/94060f_32f5c46ba64c48a3b8cc652c17e9b25d~mv2.png/v1/fill/w_490,h_490,al_c,lg_1,q_85,enc_auto/94060f_32f5c46ba64c48a3b8cc652c17e9b25d~mv2.png",
           "specification": {
+            "color": "Grey",
             "capacity": "190L",
             "type": "Single Door",
             "energyRating": "5 Star",
@@ -1717,6 +1746,7 @@
           "sellingPrice": 79191,
           "image": "https://www.jiomart.com/images/product/original/491604544/panasonic-584-litres-side-by-side-refrigerator-stainless-steel-nr-bs60msx1-digital-o491604544-p590039972-1-202009260717.jpeg?im=Resize=(420,420)",
           "specification": {
+            "color": "Black Grey",
             "capacity": "584L",
             "type": "Side-by-Side",
             "energyRating": "3 Star",
@@ -1738,6 +1768,7 @@
           "sellingPrice": 64231,
           "image": "https://s3b.cashify.in/gpro/uploads/2023/01/14115306/bosch-kdd46xi30i-401-ltr-double-door-front.jpg",
           "specification": {
+            "color": "Light Blue",
             "capacity": "507L",
             "type": "Double Door",
             "energyRating": "4 Star",
@@ -1759,6 +1790,7 @@
           "sellingPrice": 38691,
           "image": "https://rukminim2.flixcart.com/image/850/1000/kfyasnk0/refrigerator-new/c/n/a/rt39t5c38s9-tl-2-samsung-original-imafwajvx4bu352e.jpeg?q=90&crop=false",
           "specification": {
+            "color": "Light Grey",
             "capacity": "386L",
             "type": "Convertible Double Door",
             "energyRating": "2 Star",
@@ -1772,7 +1804,7 @@
     
   },
     {
-	  "categoryID":"0011",
+	  "categoryID":"011",
 	  "category":"Air Conditioners",
 	  "category_img":"https://image.made-in-china.com/2f0j00LCBWiedIrbUq/China-Factory-Customizable-12000-BTU-Non-Inverter-Split-Air-Conditioners-AC-Units-for-Home-Smart-1-5-Hsp-Air-Conditioning.webp",
       "products": [
@@ -1886,7 +1918,7 @@
     
   },
     {
-	  "categoryID":"0012",
+	  "categoryID":"012",
 	  "category":"Microwaves",
 	  "category_img":"https://www.sencor.com/Sencor/media/content/Products/40046721-06.jpg",
       "products": [

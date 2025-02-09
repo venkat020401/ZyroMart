@@ -34,7 +34,11 @@ const Orders = () => {
                 <div className="ms-3">
                   <h6 className="mb-1">{order.name}</h6>
                   <p className="text-muted mb-1">
-                    <strong>Color:</strong> {order.specification.color}
+                    {order.specification.color && (
+                      <span>
+                        <strong>Color:</strong> {order.specification.color}
+                      </span>
+                    )}
                   </p>
                   <h6 className="fw-bold">
                     ₹{(order.sellingPrice * order.qty).toLocaleString("en-IN")}
